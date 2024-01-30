@@ -231,7 +231,9 @@ No.& UCS8022-23B00372 </h4>
         भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई 
         दिशा देने की आवश्यकता है। 
  </span>
-          <div class="contact-info mt-4">
+
+<!-- This Comment below code as to delete on both side html and css -->
+          <!-- <div class="contact-info mt-4">
             <i>
               <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m12 22c-.3632813 0-.6972656-.1967773-.8740234-.5141602l-2.3066406-4.1518555c-2.897461-1.2597655-4.819336-4.1606445-4.819336-7.3339843 0-4.4111328 3.5888672-8 8-8s8 3.5888672 8 8c0 3.1733398-1.921875 6.0742188-4.8193359 7.3339844l-2.3066406 4.1518555c-.1767579.3173828-.5107422.5141601-.8740235.5141601zm0-18c-3.3085938 0-6 2.6914063-6 6 0 2.4736328 1.5576172 4.7265625 3.8769531 5.605957.2207031.0839844.4052734.2431641.5195313.4492188l1.6035156 2.8857422 1.6035156-2.8857422c.1142578-.2060547.2988281-.3652344.5195313-.4492188 2.3193359-.8793945 3.8769531-3.1323242 3.8769531-5.605957 0-3.3085937-2.6914062-6-6-6zm0 9c-1.6542969 0-3-1.3457031-3-3s1.3457031-3 3-3 3 1.3457031 3 3-1.3457031 3-3 3zm0-4c-.5517578 0-1 .4487305-1 1s.4482422 1 1 1 1-.4487305 1-1-.4482422-1-1-1z"></path></g></svg>
             </i>
@@ -259,7 +261,9 @@ No.& UCS8022-23B00372 </h4>
               <svg height="512" viewBox="0 0 32 32" width="512" xmlns="http://www.w3.org/2000/svg"><g data-name="Layer 34"><path d="m30 9v14a3 3 0 0 1 -3 3h-22a3 3 0 0 1 -3-3v-14a2.87 2.87 0 0 1 .19-1l12.15 8.1a3 3 0 0 0 3.32 0l12.15-8.1a2.87 2.87 0 0 1 .19 1zm-13.45 5.43 12-8a3 3 0 0 0 -1.55-.43h-22a3 3 0 0 0 -1.54.44l12 8a1 1 0 0 0 1.09-.01z"></path></g></svg>
             </i>
             <h5>Email:</h5><a href="mailto:information@domain.com">information@domain.com</a>
-          </div>
+          </div> -->
+ <!-- This Comment above code as to delete on both side html and css -->
+
           <div class="share-post-icon mt-4 pt-3">
           <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
             <ul class="social-media-icon full ms-4">
@@ -279,8 +283,8 @@ No.& UCS8022-23B00372 </h4>
     </div>
   </div>
 </section>
-<section style="   display: flex; margin-top:50px;">
-<div class="card" style="width: 18rem;  float: left; margin-left:20px;  ">
+<section class="cards-box">
+<div class="card card-item">
   <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -288,7 +292,7 @@ No.& UCS8022-23B00372 </h4>
     <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
   </div>
 </div>
-<div class="card" style="width: 18rem;  float: left;   margin-left:20px; ">
+<div class="card" style="width: 18rem; margin-left:20px; ">
   <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -296,7 +300,7 @@ No.& UCS8022-23B00372 </h4>
     <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
   </div>
 </div>
-<div class="card" style="width: 18rem;  float: left;  margin-left:20px; ">
+<div class="card" style="width: 18rem;  margin-left:20px; ">
   <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
@@ -304,7 +308,7 @@ No.& UCS8022-23B00372 </h4>
     <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
   </div>
 </div>
-<div class="card" style="width: 18rem;  float: left;  margin-left:20px; ">
+<div class="card" style="width: 18rem; margin-left:20px; ">
   <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
