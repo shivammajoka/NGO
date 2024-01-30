@@ -173,10 +173,10 @@ No.& UCS8022-23B00372 </h4>
       <p>सेवा भारती मध्य भारत में आपका स्वागत है</p>
       <h2>हम गरीब बच्चों को बेहतर जीवन पाने में मदद करते हैं।</h2>
     </div>
-    <div class="row align-items-center">
-      <div class="col-lg-6">
+    <div class="row align-items-center lol111">
+      <div class="col-lg-6 lol11">
         <div class="row">
-        <div class="col-8">
+        <div class="col-8 lalala">
           <div class="help-man hoverimg">
             <figure>
             <img alt="man" class="" src="assets/img/ngo_pic1.avif" width="500px">
