@@ -5702,10 +5702,9 @@ ul.pd-tag {
     padding-left: 10px;
 }
 
-ul.product_meta li span
-{
-color: black;
-font-weight: bold;
+ul.product_meta li span {
+    color: black;
+    font-weight: bold;
 }
 
 ul.product_meta li a {
@@ -6836,7 +6835,7 @@ img.light-icon {
     background-color: #222;
     position: fixed;
     right: 0;
-    width: 100px;
+    width: 50px;
     height: 40px;
     display: flex;
     align-items: center;
