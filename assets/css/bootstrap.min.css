@@ -826,7 +826,7 @@ progress {
 }
 
 .col-8 {
-    flex: 0 0 auto;
+   flex: 0 0 auto;
     width: max-content;
 }
 
@@ -5172,6 +5172,7 @@ fieldset:disabled .btn {
 }
 
 .card-title {
+    text-align: center;
     margin-bottom: .5rem
 }
 
