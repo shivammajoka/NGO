@@ -1,72 +1,55 @@
 <!DOCTYPE html>
 <html lang="zxx">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sewabharti</title>
   <link rel="icon" href="assets/img/logosewa.png">
- 
-   <!-- CSS only -->
-   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-   <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-   <link rel="stylesheet" href="assets/css/slick.css">
-   <link rel="stylesheet" href="assets/css/stylelocal.css">
-   <!-- Font Awesome 6 -->
-   <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-   <link rel="stylesheet" href="assets/css/slick-theme.css">
-   <link rel="stylesheet" href="assets/css/odometer-theme.css">
-   <!-- style -->
-   <link rel="stylesheet" href="assets/css/style.css">
-   <link rel="stylesheet" href="assets/css/style-dark.css">
-   <!-- responsive -->
-   <link rel="stylesheet" href="assets/css/responsive.css">
-   <!-- color -->
-   <link rel="stylesheet" href="assets/css/color.css">
-   <link rel="stylesheet" href="assets/css/newscroll.css">
 
-   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- CSS only -->
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css?v=<?php echo time(); ?>">
+  <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="assets/css/slick.css">
+  <link rel="stylesheet" href="assets/css/stylelocal.css">
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+  <link rel="stylesheet" href="assets/css/slick-theme.css">
+  <link rel="stylesheet" href="assets/css/odometer-theme.css">
+  <!-- style -->
+  <link rel="stylesheet" href="assets/css/style.css?v=<?php echo time(); ?>">
+  <link rel="stylesheet" href="assets/css/style-dark.css">
+  <!-- responsive -->
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <!-- color -->
+  <link rel="stylesheet" href="assets/css/color.css">
+  <link rel="stylesheet" href="assets/css/newscroll.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
-   <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <style>
-        #news-container {
-            width: 600px;
-            height: 350px;
-            overflow: hidden;
-            border: 1px solid #ccc;
-            margin-top:9px;
-            background-color:red;
-            color:white;
-        }
-
-        #news-content {
-            margin: 0;
-            padding: 10px;
-            list-style: none;
-        }
-    </style>
- </head>
 <body>
-  <div class="preloader"> 
+  <div class="preloader">
     <div class="sec-loading">
       <div class="one">
       </div>
     </div>
   </div>
-<!-- theme color -->
-    <div class="theme-color">
-      <img src="assets/img/sun.png" alt="moon" id="theme-icon">
-      <!-- <p style="color:white">English</p> -->
-    </div>
+  <!-- theme color -->
+  <div class="theme-color">
+    <img src="assets/img/sun.png" alt="moon" id="theme-icon">
+    <!-- <p style="color:white">English</p> -->
+  </div>
   <!-- theme color end -->
-<header>
-  <div class="top-bar">
-    <marquee behavior="" direction="" bgcolor="red">
-<h3 style="color:white;">सेवा भारती मध्य भारत में आपका स्वागत है</h3>
-<div id="google_element"></div>
-    </marquee>
-    <!-- <div class="container">
+  <header>
+    <div class="top-bar">
+      <marquee behavior="" direction="" bgcolor="red">
+        <h3 style="color:white;">सेवा भारती मध्य भारत में आपका स्वागत है</h3>
+        <div id="google_element"></div>
+      </marquee>
+      <!-- <div class="container">
       <div class="top-bar-slid">
         <div>
           <div class="phone-data">
@@ -123,230 +106,231 @@
         </div>
       </div>
     </div> -->
-  </div>
-  <div class="second-bar">
-    <div class="container">
-      <div class="logo-menu">
-        <div class="row align-items-center">
-          <div class="col-lg-3">
-            <div class="logo">
-              <a href="index.html">
-                <img alt="logo" src="assets/img/logosewa.png" class="white-logo"width="100px" >
-                <img alt="logo" src="assets/img/logosewa.png" class="black-logo" width="100px">
-              </a>
+    </div>
+    <div class="second-bar">
+      <div class="container">
+        <div class="logo-menu">
+          <div class="row align-items-center">
+            <div class="col-lg-3">
+              <div class="logo">
+                <a href="index.html">
+                  <img alt="logo" src="assets/img/logosewa.png" class="white-logo" width="100px">
+                  <img alt="logo" src="assets/img/logosewa.png" class="black-logo" width="100px">
+                </a>
+              </div>
             </div>
-          </div>
-          <div class="col-lg-9">     
-          <div class="nav-bar">      
-            <nav>
-              <ul>
-                <li><a href="JavaScript:void(0)">शिक्षा</a>
-                <ul>
-                    <li><a href="#">संस्कार केन्द्र</a></li>
-                    <li><a href="JavaScript:void(0)">छात्रावास</a>
+            <div class="col-lg-9">
+              <div class="nav-bar">
+                <nav>
+                  <ul>
+                    <li><a href="JavaScript:void(0)">शिक्षा</a>
                       <ul>
-                          <li><a href="#">निर्मला  सगदेव  वनवासी  बालक  छात्रावास  भोपाल</a></li>
-                          <li><a href="#">सरला  विनोद  प्रकाष  वनवासी  बालक  छात्रावास  ग्वालियर </a></li>
-                          <li><a href="#">सरस्वती  निलियम  वनवासी  कन्या  छात्रावास,  गुना</a></li>
-                          <li><a href="#">हर  भगवान  वनवासी  बालक  छात्रावास,  गुना</a></li>
-                          <li><a href="#">आशा  महेन्द्र  ेाुक्ल  जनजातीय  कन्या  छात्रावास,  इटारसी </a></li>
-                          <li><a href="#">दिरयांग  बालक  छात्रावास,  गांधी  नगर,  भोपाल</a></li>
+                        <li><a href="#">संस्कार केन्द्र</a></li>
+                        <li><a href="JavaScript:void(0)">छात्रावास</a>
+                          <ul>
+                            <li><a href="#">निर्मला सगदेव वनवासी बालक छात्रावास भोपाल</a></li>
+                            <li><a href="#">सरला विनोद प्रकाष वनवासी बालक छात्रावास ग्वालियर </a></li>
+                            <li><a href="#">सरस्वती निलियम वनवासी कन्या छात्रावास, गुना</a></li>
+                            <li><a href="#">हर भगवान वनवासी बालक छात्रावास, गुना</a></li>
+                            <li><a href="#">आशा महेन्द्र ेाुक्ल जनजातीय कन्या छात्रावास, इटारसी </a></li>
+                            <li><a href="#">दिरयांग बालक छात्रावास, गांधी नगर, भोपाल</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)">विद्यालय</a>
+                          <ul>
+                            <li><a href="#">आवासीय हाई स्कूल डबरा, जिला ग्वालियर</a></li>
+                            <li><a href="#">प्रावा बǐदेव भवडारी सेवा विद्या मंदिर, भोपाल</a></li>
+                            <!-- <li><a href="#">आगनवाड़ी</a></li> -->
+                          </ul>
+                        </li>
+                        <li><a href="#">आगनवाड़ी</a></li>
                       </ul>
                     </li>
-                    <li><a href="JavaScript:void(0)">विद्यालय</a>
+                    <li><a href="JavaScript:void(0)">स्वास्थ्य</a>
                       <ul>
-                          <li><a href="#">आवासीय  हाई  स्कूल  डबरा,  जिला  ग्वालियर</a></li>
-                          <li><a href="#">प्रावा  बǐदेव  भवडारी  सेवा  विद्या  मंदिर,  भोपाल</a></li>
-                          <!-- <li><a href="#">आगनवाड़ी</a></li> -->
-                      </ul>
-                    </li>
-                    <li><a href="#">आगनवाड़ी</a></li>
-                </ul>        
-                </li>
-                <li><a href="JavaScript:void(0)">स्वास्थ्य</a>
-                <ul>
-                <li><a href="JavaScript:void(0)">चिकित्सालय</a>
-                      <ul>
-                          <li><a href="#">आरोग्य  धाम,  ग्वालियर</a></li>
-                          <!-- <li><a href="photo-gallery-2.html">photo gallery 2</a></li>
+                        <li><a href="JavaScript:void(0)">चिकित्सालय</a>
+                          <ul>
+                            <li><a href="#">आरोग्य धाम, ग्वालियर</a></li>
+                            <!-- <li><a href="photo-gallery-2.html">photo gallery 2</a></li>
                           <li><a href="photo-gallery-3.html">photo gallery 3</a></li> -->
-                      </ul>
-                    </li>
-                    <li><a href="JavaScript:void(0)">दैनिक  ओ.पी.डी.</a>
-                      <ul>
-                          <li><a href="#">ललोपेथी</a></li>
-                          <li><a href="#">होम्योपैथिक</a></li>
-                          <!-- <li><a href="photo-gallery-3.html">photo gallery 3</a></li> -->
-                      </ul>
-                    </li>
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)">दैनिक ओ.पी.डी.</a>
+                          <ul>
+                            <li><a href="#">ललोपेथी</a></li>
+                            <li><a href="#">होम्योपैथिक</a></li>
+                            <!-- <li><a href="photo-gallery-3.html">photo gallery 3</a></li> -->
+                          </ul>
+                        </li>
 
-                    <li><a href="#">फिजियोथेरेपी</a></li>
-                    <li><a href="#">न्यूरोथेरेपी</a></li>
-                    <li><a href="#">ōलड  डोनेषन  सेन्टर
-                                       (पैथालाॅजी)</a></li>
-                    <li><a href="#">आशा  प्रषिक्षवा  कार्यक्रम</a></li>
-                    <li><a href="#">प्राथमिक/स्वास्थ  परार्मेा
-                    केन्द्र
-                    </a></li>
-                    <li><a href="#">	योग  केन्द्र
-                    </a></li>
-                    <li><a href="#">	साप्ताहिक  स्वास्थ्य  षिविर
-                    </a></li>
-                    <li><a href="#">	दंत  चिकित्सा  केन्द्र
-                    </a></li>
-                    <li><a href="#">	रोगी  सहायता  केन्द्र
-                    </a></li>
-                    <li><a href="#">	मेडिकल  उपकरवा  वितरवा
-                    केन्द्र
-                    </a></li>
-                </ul>        
-                </li>
-                <li><a href="JavaScript:void(0)">सामाजिक जागरण </a>
-                <ul>
-                    <li><a href="team-details.html">निवेदिता भारती  
-                    (किषोरी विकास केन्द्र) </a></li>
-                    <!-- <li><a href="event-details.html">event details</a></li>
+                        <li><a href="#">फिजियोथेरेपी</a></li>
+                        <li><a href="#">न्यूरोथेरेपी</a></li>
+                        <li><a href="#">ōलड डोनेषन सेन्टर
+                            (पैथालाॅजी)</a></li>
+                        <li><a href="#">आशा प्रषिक्षवा कार्यक्रम</a></li>
+                        <li><a href="#">प्राथमिक/स्वास्थ परार्मेा
+                            केन्द्र
+                          </a></li>
+                        <li><a href="#"> योग केन्द्र
+                          </a></li>
+                        <li><a href="#"> साप्ताहिक स्वास्थ्य षिविर
+                          </a></li>
+                        <li><a href="#"> दंत चिकित्सा केन्द्र
+                          </a></li>
+                        <li><a href="#"> रोगी सहायता केन्द्र
+                          </a></li>
+                        <li><a href="#"> मेडिकल उपकरवा वितरवा
+                            केन्द्र
+                          </a></li>
+                      </ul>
+                    </li>
+                    <li><a href="JavaScript:void(0)">सामाजिक जागरण </a>
+                      <ul>
+                        <li><a href="team-details.html">निवेदिता भारती
+                            (किषोरी विकास केन्द्र) </a></li>
+                        <!-- <li><a href="event-details.html">event details</a></li>
                     <li><a href="product-details.html">product-details</a></li>
                     <li><a href="donation-page.html">donation page</a></li> -->
-                    <li><a href="JavaScript:void(0)">मातृछाया </a>
-                      <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <li><a href="#"> ग्वालियर </a></li>
-                          <li><a href="#">बैतूल</a></li>
-                          <li><a href="#"> भिण्ड</a></li>
+                        <li><a href="JavaScript:void(0)">मातृछाया </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <li><a href="#"> ग्वालियर </a></li>
+                            <li><a href="#">बैतूल</a></li>
+                            <li><a href="#"> भिण्ड</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="#">कशोर भारती </a></li>
+                        <li><a href="JavaScript:void(0)">वरिष्ठजन सेवा केन्द्र </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <li><a href="#"> बैतूल </a></li>
+                            <li><a href="#">मुरैना</a></li>
+                            <li><a href="#">गुना </a></li>
+                          </ul>
+                        </li>
+                        <li><a href="#">दुग्ध गर्म केन्द्र </a></li>
+                        <li><a href="JavaScript:void(0)">भोजन वितरण केन्द्र </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <!-- <li><a href="#"> बैतूल </a></li> -->
+                            <li><a href="#">मुरैना</a></li>
+                            <!-- <li><a href="#">गुना  </a></li> -->
+                          </ul>
+                        </li>
+                        <li><a href="#">कम्बल वितरण केन्द्र </a></li>
+                        <li><a href="#">आश्रय भवन </a></li>
+                        <li><a href="#">परामर्श एवं विधिक सहायता
+                            केन्द्र </a></li>
+                        <li><a href="JavaScript:void(0)"> जिला विकालांग पुनर्वास
+                            केन्द्र </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <!-- <li><a href="#"> बैतूल </a></li> -->
+                            <li><a href="#">ग्वालियर</a></li>
+                            <!-- <li><a href="#">गुना  </a></li> -->
+                          </ul>
+                        </li>
                       </ul>
                     </li>
-                    <li><a href="#">कशोर भारती </a></li>
-                    <li><a href="JavaScript:void(0)">वरिष्ठजन सेवा केन्द्र  </a>
+                    <li><a href="JavaScript:void(0)">स्वावलम्बन </a>
                       <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <li><a href="#"> बैतूल </a></li>
-                          <li><a href="#">मुरैना</a></li>
-                          <li><a href="#">गुना  </a></li>
+                        <li><a href="JavaScript:void(0)"> कम्प्यूटर प्रषिक्षण केन्द्र </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <!-- <li><a href="#"> बैतूल </a></li> -->
+                            <li><a href="#">ग्वालियर</a></li>
+                            <!-- <li><a href="#">गुना  </a></li> -->
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)"> कम्प्यूटर प्रषिक्षण केन्द्र </a>
+                          <ul>
+                            <li><a href="#">मेंहदी प्रषिक्षण </a></li>
+                            <!-- <li><a href="#"> बैतूल </a></li> -->
+                            <!-- <li><a href="#">ग्वालियर</a></li> -->
+                            <!-- <li><a href="#">गुना  </a></li> -->
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)"> सिलाई केन्द्र </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <li><a href="#"> अशोक नगर </a></li>
+                            <li><a href="#">ग्वालियर</a></li>
+                            <li><a href="#">शिवपुरी </a></li>
+                            <li><a href="#">शिवपुरी </a></li>
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)"> बचत समूह </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+                            <li><a href="#"> ग्वालियर </a></li>
+                            <li><a href="#"> बैतूल </a></li>
+                            <li><a href="#">शिवपुरी </a></li>
+                            <li><a href="#"> भोजपुर </a></li>
+                          </ul>
+                        </li>
+                        <li><a href="JavaScript:void(0)"> ब्यूटी पार्लर </a>
+                          <ul>
+                            <li><a href="#">भोपाल </a></li>
+
+                          </ul>
+                        </li>
+
                       </ul>
                     </li>
-                    <li><a href="#">दुग्ध गर्म केन्द्र  </a></li>
-                    <li><a href="JavaScript:void(0)">भोजन वितरण केन्द्र  </a>
+                    <li><a href="JavaScript:void(0)">प्रचार </a>
                       <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <!-- <li><a href="#"> बैतूल </a></li> -->
-                          <li><a href="#">मुरैना</a></li>
-                          <!-- <li><a href="#">गुना  </a></li> -->
+                        <li><a href="#">सेवा प्रेरणा पत्रिका</a>
+                          <ul>
+                            <li><a href="#">जनवरी </a></li>
+                            <li><a href="#"> फरवरी </a></li>
+                            <li><a href="#"> मार्च </a></li>
+                            <li><a href="#">अप्रैल </a></li>
+                            <li><a href="#"> भोजपुर </a></li>
+                          </ul>
+
+
+
+                        </li>
+
+
                       </ul>
                     </li>
-                    <li><a href="#">कम्बल वितरण केन्द्र   </a></li>
-                    <li><a href="#">आश्रय भवन    </a></li>
-                    <li><a href="#">परामर्श एवं विधिक सहायता 
-                    केन्द्र  </a></li>
-                    <li><a href="JavaScript:void(0)"> जिला विकालांग पुनर्वास 
-                    केन्द्र   </a>
+                    <li><a href="#">आपदा प्रबंधन </a>
                       <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <!-- <li><a href="#"> बैतूल </a></li> -->
-                          <li><a href="#">ग्वालियर</a></li>
-                          <!-- <li><a href="#">गुना  </a></li> -->
+                        <li><a href="#">सेवा कार्य एवं प्रशिक्षण
+                            के फोटो विवरण सहित फोटो </a></li>
+
                       </ul>
                     </li>
-                </ul>
-                </li>
-                <li><a href="JavaScript:void(0)">स्वावलम्बन </a>
-                  <ul>
-                  <li><a href="JavaScript:void(0)"> कम्प्यूटर प्रषिक्षण केन्द्र  </a>
+                    <li><a href="#">प्रशिक्षण
+                      </a>
                       <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <!-- <li><a href="#"> बैतूल </a></li> -->
-                          <li><a href="#">ग्वालियर</a></li>
-                          <!-- <li><a href="#">गुना  </a></li> -->
+                        <li><a href="#">प्रान्त का पूर्णकालिक
+                            प्रशिक्षण (प्रति तीन माह)
+                            प्रान्त का आयामषः
+                            प्रशिक्षण वर्ष में 1 बार
+                            षिक्षिका, निरीक्षिका प्रशिक्षण
+                            समिति (अध्यक्ष, सचिव,
+                            कोषाध्यक्ष प्रशिक्षण)
+                            प्रबंधक, अधीक्षक, प्राध्यापक
+                            प्रशिक्षण </a></li>
+
                       </ul>
+
                     </li>
-                    <li><a href="JavaScript:void(0)"> कम्प्यूटर प्रषिक्षण केन्द्र  </a>
-                      <ul>
-                          <li><a href="#">मेंहदी प्रषिक्षण  </a></li>
-                          <!-- <li><a href="#"> बैतूल </a></li> -->
-                          <!-- <li><a href="#">ग्वालियर</a></li> -->
-                          <!-- <li><a href="#">गुना  </a></li> -->
-                      </ul>
-                    </li>
-                    <li><a href="JavaScript:void(0)"> सिलाई केन्द्र   </a>
-                      <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <li><a href="#"> अशोक नगर </a></li>
-                          <li><a href="#">ग्वालियर</a></li>
-                          <li><a href="#">शिवपुरी  </a></li>
-                          <li><a href="#">शिवपुरी  </a></li>
-                      </ul>
-                    </li>
-                    <li><a href="JavaScript:void(0)"> बचत समूह    </a>
-                      <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          <li><a href="#"> ग्वालियर </a></li>
-                          <li><a href="#"> बैतूल </a></li>
-                          <li><a href="#">शिवपुरी  </a></li>
-                          <li><a href="#"> भोजपुर  </a></li>
-                      </ul>
-                    </li>
-                    <li><a href="JavaScript:void(0)"> ब्यूटी पार्लर     </a>
-                      <ul>
-                          <li><a href="#">भोपाल </a></li>
-                          
-                      </ul>
-                    </li>
-                   
+
                   </ul>
-                </li>
-                <li><a href="JavaScript:void(0)">प्रचार </a>
-                <ul>
-                 <li><a href="#">सेवा प्रेरणा पत्रिका</a>
-                 <ul>
-                          <li><a href="#">जनवरी  </a></li>
-                          <li><a href="#"> फरवरी </a></li>
-                          <li><a href="#"> मार्च </a></li>
-                          <li><a href="#">अप्रैल  </a></li>
-                          <li><a href="#"> भोजपुर  </a></li>
-                      </ul>
-                
-                
-                
-                </li>
-                
-                          
-                </ul>
-                </li>
-                <li><a href="#">आपदा प्रबंधन </a>
-                <ul>
-                          <li><a href="#">सेवा कार्य एवं प्रशिक्षण
- के फोटो विवरण सहित फोटो  </a></li>
-                         
-                      </ul>
-              </li>
-                <li><a href="#">प्रशिक्षण
-</a>
-                <ul>
-                          <li><a href="#">प्रान्त का पूर्णकालिक 
-                          प्रशिक्षण (प्रति तीन माह) 
-                          प्रान्त का आयामषः 
-                          प्रशिक्षण वर्ष में 1 बार 
-                          षिक्षिका, निरीक्षिका प्रशिक्षण
-                          समिति (अध्यक्ष, सचिव, 
-                          कोषाध्यक्ष प्रशिक्षण) 
-                          प्रबंधक, अधीक्षक, प्राध्यापक 
-                          प्रशिक्षण </a></li>
-                         
-                      </ul>
-              
-              </li>
-              
-              </ul>
-          </nav>
-          <div class="extras">
-            <div class="donation">
+                </nav>
+                <div class="extras">
+                  <div class="donation">
 
-            <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
-               
+                    <button type="button"
+                      style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
 
-                <div class="cart-popup">
 
-                    <!-- <ul>
+                    <div class="cart-popup">
+
+                      <!-- <ul>
 
                       <li class="d-flex align-items-center position-relative">
 
@@ -389,7 +373,7 @@
                       </li>
 
                     </ul> -->
-<!-- 
+                      <!-- 
                       <div class="cart-total d-flex align-items-center justify-content-between">
 
                         <span class="font-semi-bold">Total:</span>
@@ -406,96 +390,96 @@
 
                       </div> -->
 
+                    </div>
+
+                  </div>
+
+
                 </div>
-
               </div>
-
-
-            </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="responsive-bar">
-    <div class="container">
-      <div class="responsive-bar-slider">
-        <a href="index.html">
-          <img alt="logo" src="assets/img/logosewa.png" class="white-logo" width="100px;">
-           <img alt="logo" src="assets/img/logo-w.png" class="black-logo">
-        </a>
-        <div class="bar-menu">
-          <i class="fa-solid fa-bars"></i>
+    <div class="responsive-bar">
+      <div class="container">
+        <div class="responsive-bar-slider">
+          <a href="index.html">
+            <img alt="logo" src="assets/img/logosewa.png" class="white-logo" width="100px;">
+            <img alt="logo" src="assets/img/logo-w.png" class="black-logo">
+          </a>
+          <div class="bar-menu">
+            <i class="fa-solid fa-bars"></i>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="mobile-nav hmburger-menu" id="mobile-nav" style="display:block;">
+    <div class="mobile-nav hmburger-menu" id="mobile-nav" style="display:block;">
       <div class="res-log">
         <a href="index.html">
           <img src="assets/img/logosewa.png" alt="Responsive Logo" class="white-logo" style="width:100px;">
           <!-- <img alt="logo" src="assets/img/logo-w.png" class="black-logo"> -->
         </a>
       </div>
-        <ul>
+      <ul>
 
-          <li class="menu-item-has-children"><a href="JavaScript:void(0)">Home</a>
-            <ul class="sub-menu">
+        <li class="menu-item-has-children"><a href="JavaScript:void(0)">Home</a>
+          <ul class="sub-menu">
 
-              <li><a href="index.html">home page 1</a></li>
-              <li><a href="index-2.html">home page 2</a></li>
-              <li><a href="index-3.html">home page 3</a></li>
-              <li><a href="index-4.html">home page 4</a></li>
-            </ul>
-          </li>
-          <li><a href="about.html">About Us</a></li>
-          <li class="menu-item-has-children"><a href="JavaScript:void(0)">Pages</a>
-            <ul class="sub-menu">
-              <li><a href="cause-details.html">cause details</a></li>
-              <li><a href="team-details.html">team details</a></li>
-                    <li><a href="event-details.html">event details</a></li>
-                    <li><a href="donation-page.html">donation page</a></li>
-                    <li><a href="product-details.html">product details</a></li>
-                    <li><a href="404-error.html">404 error</a></li>
-            </ul>
-          </li>
+            <li><a href="index.html">home page 1</a></li>
+            <li><a href="index-2.html">home page 2</a></li>
+            <li><a href="index-3.html">home page 3</a></li>
+            <li><a href="index-4.html">home page 4</a></li>
+          </ul>
+        </li>
+        <li><a href="about.html">About Us</a></li>
+        <li class="menu-item-has-children"><a href="JavaScript:void(0)">Pages</a>
+          <ul class="sub-menu">
+            <li><a href="cause-details.html">cause details</a></li>
+            <li><a href="team-details.html">team details</a></li>
+            <li><a href="event-details.html">event details</a></li>
+            <li><a href="donation-page.html">donation page</a></li>
+            <li><a href="product-details.html">product details</a></li>
+            <li><a href="404-error.html">404 error</a></li>
+          </ul>
+        </li>
 
-          
-          <li class="menu-item-has-children"><a href="JavaScript:void(0)">shop</a>
+
+        <li class="menu-item-has-children"><a href="JavaScript:void(0)">shop</a>
 
           <ul class="sub-menu">
 
             <li><a href="our-shop.html">our shop</a></li>
-                    <li><a href="shop-cart.html">shop cart</a></li>
-                    <li><a href="cart-checkout.html">cart checkout</a></li>
+            <li><a href="shop-cart.html">shop cart</a></li>
+            <li><a href="cart-checkout.html">cart checkout</a></li>
           </ul>
 
-          </li>
-          <li class="menu-item-has-children"><a href="JavaScript:void(0)">News</a>
+        </li>
+        <li class="menu-item-has-children"><a href="JavaScript:void(0)">News</a>
 
           <ul class="sub-menu">
 
-           <li><a href="blog-details-1.html">blog details 1</a></li>
-                    <li><a href="blog-details-2.html">blog details 2</a></li>
+            <li><a href="blog-details-1.html">blog details 1</a></li>
+            <li><a href="blog-details-2.html">blog details 2</a></li>
           </ul>
 
-          </li>
-          <li class="menu-item-has-children"><a href="JavaScript:void(0)">photo gallery</a>
+        </li>
+        <li class="menu-item-has-children"><a href="JavaScript:void(0)">photo gallery</a>
 
           <ul class="sub-menu">
 
-           <li><a href="photo-gallery-1.html">photo gallery 1</a></li>
+            <li><a href="photo-gallery-1.html">photo gallery 1</a></li>
             <li><a href="photo-gallery-2.html">photo gallery 2</a></li>
             <li><a href="photo-gallery-3.html">photo gallery 3</a></li>
           </ul>
 
-          </li>
+        </li>
 
-          <li><a href="contact.html">contacts</a></li>
+        <li><a href="contact.html">contacts</a></li>
 
-          </ul>
+      </ul>
 
-          <a href="JavaScript:void(0)" id="res-cross"></a>
-  </div>
-</header>
+      <a href="JavaScript:void(0)" id="res-cross"></a>
+    </div>
+  </header>
