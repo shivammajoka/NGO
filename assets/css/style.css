@@ -1319,7 +1319,7 @@ ul.heart li {
 .gifts-slids .owl-nav i:hover {
     color: white;
     border: 1px solid #ff3636;
-    background-color: ;
+    /* background-color: ; */
 }
 
 .gifts-slids {
@@ -5702,7 +5702,7 @@ ul.pd-tag {
     padding-left: 10px;
 }
 
-ul.product_meta li span,
+ul.product_meta li span
 {
 color: black;
 font-weight: bold;

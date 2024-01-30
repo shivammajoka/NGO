@@ -31,7 +31,7 @@
             height: 350px;
             overflow: hidden;
             border: 1px solid #ccc;
-            margin-top:70px;
+            margin-top:9px;
             background-color:red;
             color:white;
         }
