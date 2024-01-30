@@ -176,7 +176,7 @@ No.& UCS8022-23B00372 </h4>
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="row">
-        <div class="col-8">
+        <div class="col-8" style="width:auto;">
           <div class="help-man hoverimg">
             <figure>
             <img alt="man" class="" src="assets/img/ngo_pic1.avif" width="500px">
