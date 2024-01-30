@@ -827,7 +827,7 @@ progress {
 
 .col-8 {
    flex: 0 0 auto;
-    width: max-content;
+    width: auto;
 }
 
 .col-9 {
