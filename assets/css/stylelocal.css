@@ -1,5 +1,21 @@
 /* local CSS By Saksham */
-
+#news-container {
+    width: 600px;
+    height: 350px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    margin-top:9px;
+    background-color:red;
+    color:white;
+    padding: 0 12px;
+    border-radius: 14px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+#news-content {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+}
 .cards-box {
     display: flex;
     margin: 50px;
