@@ -1,11 +1,10 @@
 .holder {
     background-color: #ccc;
-    width: 300px;
+    width: 600px;
     height: 400px;
     overflow: hidden;
     padding: 10px;
     font-family: Helvetica;
-    float: right;
 }
 
 .holder .mask {
@@ -15,6 +14,7 @@
     width: 300px;
     height: 240px;
     overflow: hidden;
+ 
 }
 
 .holder ul {
@@ -31,5 +31,4 @@
 .holder ul li a {
     color: darkred;
     text-decoration: none;
-
 }

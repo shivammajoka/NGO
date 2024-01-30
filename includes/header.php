@@ -23,7 +23,25 @@
    <!-- color -->
    <link rel="stylesheet" href="assets/css/color.css">
    <link rel="stylesheet" href="assets/css/newscroll.css">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <style>
+        #news-container {
+            width: 600px;
+            height: 350px;
+            overflow: hidden;
+            border: 1px solid #ccc;
+            margin-top:70px;
+            background-color:red;
+            color:white;
+        }
+
+        #news-content {
+            margin: 0;
+            padding: 10px;
+            list-style: none;
+        }
+    </style>
  </head>
 <body>
   <div class="preloader"> 
@@ -164,25 +182,25 @@
                                        (पैथालाॅजी)</a></li>
                     <li><a href="#">आशा  प्रषिक्षवा  कार्यक्रम</a></li>
                     <li><a href="#">प्राथमिक/स्वास्थ  परार्मेा
-केन्द्र
-</a></li>
-<li><a href="#">	योग  केन्द्र
-</a></li>
-<li><a href="#">	साप्ताहिक  स्वास्थ्य  षिविर
-</a></li>
-<li><a href="#">	दंत  चिकित्सा  केन्द्र
-</a></li>
-<li><a href="#">	रोगी  सहायता  केन्द्र
-</a></li>
-<li><a href="#">	मेडिकल  उपकरवा  वितरवा
-केन्द्र
-</a></li>
+                    केन्द्र
+                    </a></li>
+                    <li><a href="#">	योग  केन्द्र
+                    </a></li>
+                    <li><a href="#">	साप्ताहिक  स्वास्थ्य  षिविर
+                    </a></li>
+                    <li><a href="#">	दंत  चिकित्सा  केन्द्र
+                    </a></li>
+                    <li><a href="#">	रोगी  सहायता  केन्द्र
+                    </a></li>
+                    <li><a href="#">	मेडिकल  उपकरवा  वितरवा
+                    केन्द्र
+                    </a></li>
                 </ul>        
                 </li>
                 <li><a href="JavaScript:void(0)">सामाजिक जागरण </a>
                 <ul>
                     <li><a href="team-details.html">निवेदिता भारती  
-(किषोरी विकास केन्द्र) </a></li>
+                    (किषोरी विकास केन्द्र) </a></li>
                     <!-- <li><a href="event-details.html">event details</a></li>
                     <li><a href="product-details.html">product-details</a></li>
                     <li><a href="donation-page.html">donation page</a></li> -->
@@ -215,9 +233,9 @@
                     <li><a href="#">कम्बल वितरण केन्द्र   </a></li>
                     <li><a href="#">आश्रय भवन    </a></li>
                     <li><a href="#">परामर्श एवं विधिक सहायता 
-केन्द्र  </a></li>
+                    केन्द्र  </a></li>
                     <li><a href="JavaScript:void(0)"> जिला विकालांग पुनर्वास 
-केन्द्र   </a>
+                    केन्द्र   </a>
                       <ul>
                           <li><a href="#">भोपाल </a></li>
                           <!-- <li><a href="#"> बैतूल </a></li> -->
@@ -302,13 +320,13 @@
                 <ul>
                           <li><a href="#">प्रान्त का पूर्णकालिक 
                           प्रशिक्षण (प्रति तीन माह) 
-प्रान्त का आयामषः 
-प्रशिक्षण वर्ष में 1 बार 
-षिक्षिका, निरीक्षिका प्रशिक्षण
-समिति (अध्यक्ष, सचिव, 
-कोषाध्यक्ष प्रशिक्षण) 
-प्रबंधक, अधीक्षक, प्राध्यापक 
-प्रशिक्षण </a></li>
+                          प्रान्त का आयामषः 
+                          प्रशिक्षण वर्ष में 1 बार 
+                          षिक्षिका, निरीक्षिका प्रशिक्षण
+                          समिति (अध्यक्ष, सचिव, 
+                          कोषाध्यक्ष प्रशिक्षण) 
+                          प्रबंधक, अधीक्षक, प्राध्यापक 
+                          प्रशिक्षण </a></li>
                          
                       </ul>
               
@@ -319,6 +337,7 @@
           <div class="extras">
             <div class="donation">
 
+            <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
                
 
                 <div class="cart-popup">
@@ -387,8 +406,6 @@
 
               </div>
 
-              <button class="btn"><span>Donation
-</span></button>
 
             </div>
             </div>
