@@ -158,7 +158,8 @@
 				$strip.addClass("newsticker")
 				var stripHeight = 1;
 				$strip.find("li").each(function(i){
-					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+					stripHeight += jQuery(this, i).outerHeight(true); 
+          // thanks to Michael Haszprunar and Fabien Volpi
 				});
 				var $mask = $strip.wrap("<div class='mask'></div>");
 				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
@@ -195,5 +196,34 @@ $(function(){
    new google.translate.TranslateElement("google_element");
   }
 </script>
+
+
+<script>
+        // JavaScript to create the scrolling effect
+        const newsContainer = document.getElementById('news-container');
+        const newsContent = document.getElementById('news-content');
+
+        let newsItems = newsContent.children;
+        let currentPosition = 0;
+
+        function scrollNews() {
+            currentPosition = (currentPosition + 1) % (newsItems.length * newsItems[0].offsetHeight);
+            newsContent.style.transform = `translateY(-${currentPosition}px)`;
+        }
+
+        // Adjust the interval to control the scrolling speed
+        const scrollInterval = setInterval(scrollNews, 100); // Change 100 to your preferred time interval in milliseconds
+
+        // Pause scrolling when hovering over the news container
+        newsContainer.addEventListener('mouseenter', () => {
+            clearInterval(scrollInterval);
+        });
+
+        // Resume scrolling when mouse leaves the news container
+        newsContainer.addEventListener('mouseleave', () => {
+            scrollInterval = setInterval(scrollNews, 100);
+        });
+    </script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="assets/js/custom.js"></script>
 </body>
