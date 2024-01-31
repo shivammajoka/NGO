@@ -6719,6 +6719,7 @@ section.gap.about-img-slidr {
 }
 
 #button.show {
+    border-radius: 11px;
     opacity: 1;
     visibility: visible;
 }
@@ -6845,6 +6846,7 @@ img.light-icon {
     border-bottom-right-radius: 0;
     top: 30%;
     border-right: 0;
+    cursor: pointer;
 }
 
 img.black-logo {
