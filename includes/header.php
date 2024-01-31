@@ -239,8 +239,8 @@
                             <!-- <li><a href="#">गुना  </a></li> -->
                           </ul>
                         </li>
-                        <li><a href="JavaScript:void(0)"> मेंहदी प्रषिक्षण </a>
-                        <li><a href="JavaScript:void(0)">कम्प्यूटर प्रषिक्षण केन्द्र</a>
+                       
+                        <li><a href="JavaScript:void(0)">मेंहदी प्रषिक्षण </a>
 
                           <ul>
                             <li><a href="#">विदिशा </a></li>
