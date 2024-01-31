@@ -2,7 +2,7 @@
 <section class="page-title-area" style="background-image:url(assets/img/slider-1.png)">
   <div class="container">
     <div class="title-area-data">
-      <h2>सरला विनोद प्रकाष वनवासी बालक छात्रावास ग्वालियर</h2>
+      <h2>निर्मला सगदेव वनवासी बालक छात्रावास भोपाल</h2>
       <p>Organisations committed to ending poverty worldwide.</p>
     </div>
     <ol class="breadcrumb">

@@ -124,7 +124,7 @@
         <div class="wpo-lower-footer">
            <p> All Rights © 2024 Reserved By  सेवा भारती मध्य भारत  Design By Orphicsolution<a href="#"></a>, </p>
            <div class="d-flex align-items-center"><a href="#"> Terms of Use</a><div class="mx-4 boder"></div><a href="#">Privacy Policy</a> 
-           <div class="mx-4 boder"></div> <a href="#">       Disclaimer</a>
+           <div class="mx-4 boder"></div> <a href="#">Disclaimer</a>
           </div>
       </div>
     </div>
