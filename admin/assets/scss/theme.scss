@@ -6,7 +6,7 @@ File: App Css
 */
 
 /*
-1. Topbar
+1. Left sidenav
 2. Header
 3. Footer
 4. Avatar
@@ -27,7 +27,6 @@ File: App Css
 19. Pricing
 */
 
-
 //Fonts
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,400,500,700&display=swap');
 
@@ -38,7 +37,7 @@ File: App Css
 @import "../scss/plugins/bootstrap/mixins";
 
 // Structure
-/* 1. Topbar */
+/* 1. Left sidenav */
 @import "structure/menu";
 /* 2. Header */
 @import "structure/header";

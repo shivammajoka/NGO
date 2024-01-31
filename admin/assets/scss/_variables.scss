@@ -4,9 +4,9 @@
 // Vertical Sidebar
 $sidebar-light-bg: #ffffff;
 $sidebar-dark-bg: #3d4255; //2c313a
-$sidebar-menu-item-color: #a7b1c2;
-$sidebar-menu-item-hover-color: #c4d2e8;
-$sidebar-width: 260px;
+$sidebar-menu-item-color: #3d4255;
+$sidebar-menu-item-hover-color: #3d4255;
+$sidebar-width: 240px;
 
 // Topbar Header
 $header-height: 70px;
@@ -19,6 +19,7 @@ $footer-height: 70px;
 
 //Font variables
 $font-family-secondary: 'Rubik', sans-serif;
+
 
 // Variables
 //
@@ -756,9 +757,9 @@ $navbar-dark-disabled-color:        rgba($white, .25);
 $navbar-dark-toggler-icon-bg:       str-replace(url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='#{$navbar-dark-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"), "#", "%23");
 $navbar-dark-toggler-border-color:  rgba($white, .1);
 
-$navbar-light-color:                rgba($black, .65);
-$navbar-light-hover-color:          rgba($black, .9);
-$navbar-light-active-color:         $primary;
+$navbar-light-color:                rgba($black, .5);
+$navbar-light-hover-color:          rgba($black, .7);
+$navbar-light-active-color:         rgba($black, .9);
 $navbar-light-disabled-color:       rgba($black, .3);
 $navbar-light-toggler-icon-bg:      str-replace(url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='#{$navbar-light-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"), "#", "%23");
 $navbar-light-toggler-border-color: rgba($black, .1);
