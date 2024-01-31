@@ -6,9 +6,9 @@
         <div class="col-lg-7">
           <div class="home-life">
             <h1 style="color:;">सेवा भारती मध्यभारत </h1>
-            <h4 style="color:;">ISO Certified Organisation 9001:2015 
-No.& UCS8022-23B00372  </h4>
-                    <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
+            <h4 style="color:;">ISO Certified Organisation 9001:2015
+              No.& UCS8022-23B00372 </h4>
+            <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
           </div>
         </div>
       </div>
@@ -20,9 +20,9 @@ No.& UCS8022-23B00372  </h4>
         <div class="col-lg-7">
           <div class="home-life">
             <h1>शिक्षा </h1>
-            <h4>ISO Certified Organisation 9001:2015 
-No.& UCS8022-23B00372 </h4>
-                    <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
+            <h4>ISO Certified Organisation 9001:2015
+              No.& UCS8022-23B00372 </h4>
+            <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
           </div>
         </div>
       </div>
@@ -34,37 +34,37 @@ No.& UCS8022-23B00372 </h4>
         <div class="col-lg-7">
           <div class="home-life">
             <h1>स्वास्थ्य </h1>
-            <h4>ISO Certified Organisation 9001:2015 
-No.& UCS8022-23B00372  </h4>
-                    <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
+            <h4>ISO Certified Organisation 9001:2015
+              No.& UCS8022-23B00372 </h4>
+            <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="slides item"  style="background-image: url(assets/img/slider-1.png)">
+  <div class="slides item" style="background-image: url(assets/img/slider-1.png)">
     <div class="container">
       <div class="row">
         <div class="col-lg-7">
           <div class="home-life">
             <h1>सामाजिक </h1>
-            <h4>ISO Certified Organisation 9001:2015 
-No.& UCS8022-23B00372 </h4>
-                    <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
+            <h4>ISO Certified Organisation 9001:2015
+              No.& UCS8022-23B00372 </h4>
+            <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="slides item"  style="background-image: url(assets/img/slider-1.png)">
+  <div class="slides item" style="background-image: url(assets/img/slider-1.png)">
     <div class="container">
       <div class="row">
         <div class="col-lg-7">
           <div class="home-life">
             <h1>सामाजिक </h1>
-            <h4>ISO Certified Organisation 9001:2015 
-No.& UCS8022-23B00372 </h4>
-                    <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
+            <h4>ISO Certified Organisation 9001:2015
+              No.& UCS8022-23B00372 </h4>
+            <a href="donation-page.html" class="btn"><span>Donate Now</span></a>
           </div>
         </div>
       </div>
@@ -81,86 +81,86 @@ No.& UCS8022-23B00372 </h4>
         <div class="heading two">
           <!-- <p>charity Act Today!</p> -->
           <h2 class="pb-3">
-छोटे दान किसी के जीवन पर बड़ा प्रभाव डालते हैं
+            छोटे दान किसी के जीवन पर बड़ा प्रभाव डालते हैं
           </h2>
-          <h6 style="  font-size:17px ;"> 
-              सेवा भारती एक सामाजिक संस्था है संस्था का 
-              पंजीयन मध्यप्रदेश सोसायटी रजिस्ट्रीकरण अधिनियम- 
-              1973 (सन 1973 का क्रमांक 44) के अधीन हुआ 
-              है। पंजीयन क्रमांक 346/90 दिनांक 09/10/90 है। 
-              संस्था का कार्यक्षेत्र संपूर्ण भारत है। समाज के निर्धन, 
-              अषिक्षित, गरीब, शोषित तथा कमजोर वर्ग जैसे- 
-              वंचित (सम्मान की कमी वाले लोग), जरूरतमंद 
-              (आर्थिक रूप से कमजोर लोग), उपेक्षित (तिरस्कृ
-              त-कोढ़ी, किन्नर, खानाबदोश, कैदी) पीड़ित (बीमार, 
-              दुर्घटना एवं महामारी से ग्रस्त) का सर्वांगीण विकास 
-              ही संस्था का उद्देश्य है। संस्था का कार्य क्षेत्र सुदूर 
-              अंचल के वनवासी, ग्रामीणवासी और शहरों की सेवा 
-              बस्तियाँ हैं। उपरोक्त प्रकार के लोगों के लिए सेवा 
-              भारती 
-              शिक्षा, 
-              स्वास्थ्य, 
-              स्वावलंबन, 
-              सामाजिक 
-              जागरूकता चार आयामों आधारित और सह आयाम 
-              आपदा प्रबंधन एवं प्रचार पर कार्य कर रही है। </h6>
+          <h6 style="  font-size:17px ;">
+            सेवा भारती एक सामाजिक संस्था है संस्था का
+            पंजीयन मध्यप्रदेश सोसायटी रजिस्ट्रीकरण अधिनियम-
+            1973 (सन 1973 का क्रमांक 44) के अधीन हुआ
+            है। पंजीयन क्रमांक 346/90 दिनांक 09/10/90 है।
+            संस्था का कार्यक्षेत्र संपूर्ण भारत है। समाज के निर्धन,
+            अषिक्षित, गरीब, शोषित तथा कमजोर वर्ग जैसे-
+            वंचित (सम्मान की कमी वाले लोग), जरूरतमंद
+            (आर्थिक रूप से कमजोर लोग), उपेक्षित (तिरस्कृ
+            त-कोढ़ी, किन्नर, खानाबदोश, कैदी) पीड़ित (बीमार,
+            दुर्घटना एवं महामारी से ग्रस्त) का सर्वांगीण विकास
+            ही संस्था का उद्देश्य है। संस्था का कार्य क्षेत्र सुदूर
+            अंचल के वनवासी, ग्रामीणवासी और शहरों की सेवा
+            बस्तियाँ हैं। उपरोक्त प्रकार के लोगों के लिए सेवा
+            भारती
+            शिक्षा,
+            स्वास्थ्य,
+            स्वावलंबन,
+            सामाजिक
+            जागरूकता चार आयामों आधारित और सह आयाम
+            आपदा प्रबंधन एवं प्रचार पर कार्य कर रही है। </h6>
         </div>
         <div class="progresbar pt-4">
-         <div class="progressbar">
-             <!-- <div class="circle" data-percent="95"><canvas width="300" height="300" style="height: 200px; width: 200px;"></canvas>
+          <div class="progressbar">
+            <!-- <div class="circle" data-percent="95"><canvas width="300" height="300" style="height: 200px; width: 200px;"></canvas>
                  <div>95%</div>
             </div> -->
-           </div>
+          </div>
 
-            
-           <div class="progressbar">
-             <!-- <div class="circle two" data-percent="100"><canvas width="300" height="300" style="height: 200px; width: 200px;"></canvas>
+
+          <div class="progressbar">
+            <!-- <div class="circle two" data-percent="100"><canvas width="300" height="300" style="height: 200px; width: 200px;"></canvas>
                 <div>100%</div>
             </div> -->
-           </div>
+          </div>
         </div>
       </div>
       <div class="col-lg-6">
         <div class="small-donations-img">
-        <div id="news-container">
-        <ul id="news-content">
-            <li>मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और      सामाजिक 
-                 जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है।</li>
-            <li> उज्ज्वल 
-                 भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <li> परंतु उसे नई 
-                 दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की 
-                 संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
-            <!-- Add more news items as needed -->
-         </ul>
-        </div>
+          <div id="news-container">
+            <ul id="news-content">
+              <li>मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+                जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है।</li>
+              <li> उज्ज्वल
+                भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <li> परंतु उसे नई
+                दिशा देने की आवश्यकता है। शिक्षा इस प्रकार की होनी चाहिए कि व्यक्ति अपने देष की
+                संस्कृति, भूगोल और इतिहास से परिचित हो सके। </li>
+              <!-- Add more news items as needed -->
+            </ul>
+          </div>
         </div>
       </div>
     </div>
@@ -176,45 +176,45 @@ No.& UCS8022-23B00372 </h4>
     <div class="row align-items-center">
       <div class="col-lg-6">
         <div class="row">
-        <div class="col-8" style="width:auto;">
-          <div class="help-man hoverimg">
-            <figure>
-            <img alt="man" class="" src="assets/img/ngo_pic1.avif" width="500px">
-          </figure>
-            <!-- <h5>We help more than 23k children every year</h5> -->
+          <div class="col-8" style="width:auto;">
+            <div class="help-man hoverimg">
+              <figure>
+                <img alt="man" class="" src="assets/img/ngo_pic1.avif" width="500px">
+              </figure>
+              <!-- <h5>We help more than 23k children every year</h5> -->
+            </div>
           </div>
-        </div>
-        <div class="col-4">
-          <div class="help-man hoverimg">
-            <!-- <img alt="man" class="helptwo" src="assets/img/ngo_pic2.jpg" width="200px"> -->
-            <!-- <figure>
+          <div class="col-4">
+            <div class="help-man hoverimg">
+              <!-- <img alt="man" class="helptwo" src="assets/img/ngo_pic2.jpg" width="200px"> -->
+              <!-- <figure>
               <img alt="man" class="w-100 mt-4" src="assets/img/ngo_pic2.jpg">
             </figure> -->
+            </div>
           </div>
-        </div>
         </div>
       </div>
       <div class="col-lg-6 ps-xl-5">
         <div class="help-man-data">
-       <p>
-        मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक 
-        जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल 
-        भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई 
-        दिशा देने की आवश्यकता है।
-       </p>
+          <p>
+            मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+            जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल
+            भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई
+            दिशा देने की आवश्यकता है।
+          </p>
           <!-- <ul>
             <li><div class="bol"></div>Creating brands people trust.</li>
             <li><div class="bol"></div>Helping charities and non-profits to do good</li>
             <li><div class="bol"></div>what you do best, changing the world</li>
           </ul> -->
-          <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+          <button class="main-btn" type="button">Donation</button>
         </div>
       </div>
     </div>
   </div>
 </section>
 <section class="gap no-bottom">
-  <div class="container">
+  <div class="container spacing">
     <div class="row align-items-center">
       <div class="col-lg-7">
         <div class="team-img">
@@ -224,15 +224,15 @@ No.& UCS8022-23B00372 </h4>
       <div class="col-lg-5">
         <div class="team-data-page">
           <h2>शिक्षा </h2>
-          <span>(संस्कार केन्द्र, छात्रावास, विद्यालय एवं आवासीय विद्यालय) 
-        <br>
-        मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक 
-        जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल 
-        भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई 
-        दिशा देने की आवश्यकता है। 
- </span>
+          <span>(संस्कार केन्द्र, छात्रावास, विद्यालय एवं आवासीय विद्यालय)
+            <br>
+            मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+            जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल
+            भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई
+            दिशा देने की आवश्यकता है।
+          </span>
 
-<!-- This Comment below code as to delete on both side html and css -->
+          <!-- This Comment below code as to delete on both side html and css -->
           <!-- <div class="contact-info mt-4">
             <i>
               <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m12 22c-.3632813 0-.6972656-.1967773-.8740234-.5141602l-2.3066406-4.1518555c-2.897461-1.2597655-4.819336-4.1606445-4.819336-7.3339843 0-4.4111328 3.5888672-8 8-8s8 3.5888672 8 8c0 3.1733398-1.921875 6.0742188-4.8193359 7.3339844l-2.3066406 4.1518555c-.1767579.3173828-.5107422.5141601-.8740235.5141601zm0-18c-3.3085938 0-6 2.6914063-6 6 0 2.4736328 1.5576172 4.7265625 3.8769531 5.605957.2207031.0839844.4052734.2431641.5195313.4492188l1.6035156 2.8857422 1.6035156-2.8857422c.1142578-.2060547.2988281-.3652344.5195313-.4492188 2.3193359-.8793945 3.8769531-3.1323242 3.8769531-5.605957 0-3.3085937-2.6914062-6-6-6zm0 9c-1.6542969 0-3-1.3457031-3-3s1.3457031-3 3-3 3 1.3457031 3 3-1.3457031 3-3 3zm0-4c-.5517578 0-1 .4487305-1 1s.4482422 1 1 1 1-.4487305 1-1-.4482422-1-1-1z"></path></g></svg>
@@ -262,69 +262,236 @@ No.& UCS8022-23B00372 </h4>
             </i>
             <h5>Email:</h5><a href="mailto:information@domain.com">information@domain.com</a>
           </div> -->
- <!-- This Comment above code as to delete on both side html and css -->
+          <!-- This Comment above code as to delete on both side html and css -->
 
           <div class="share-post-icon mt-4 pt-3">
-          <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
-            <ul class="social-media-icon full ms-4">
-                <li>
-                  <a href="#">
-                    <i class="fab fa-facebook-f icon"></i>    </a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-twitter icon"></i></a>
-                </li>
-                <li>
-                  <a href="#"><i class="fab fa-google-plus-g icon"></i></a></li>
-            </ul>
+            <button class="main-btn" type="button">Donation</button>
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container spacing">
+    <div class="row align-items-center">
+
+      <div class="col-lg-5">
+        <div class="team-data-page">
+          <h2>शिक्षा </h2>
+          <span>(संस्कार केन्द्र, छात्रावास, विद्यालय एवं आवासीय विद्यालय)
+            <br>
+            मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+            जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल
+            भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई
+            दिशा देने की आवश्यकता है।
+          </span>
+
+          <!-- This Comment below code as to delete on both side html and css -->
+          <!-- <div class="contact-info mt-4">
+            <i>
+              <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m12 22c-.3632813 0-.6972656-.1967773-.8740234-.5141602l-2.3066406-4.1518555c-2.897461-1.2597655-4.819336-4.1606445-4.819336-7.3339843 0-4.4111328 3.5888672-8 8-8s8 3.5888672 8 8c0 3.1733398-1.921875 6.0742188-4.8193359 7.3339844l-2.3066406 4.1518555c-.1767579.3173828-.5107422.5141601-.8740235.5141601zm0-18c-3.3085938 0-6 2.6914063-6 6 0 2.4736328 1.5576172 4.7265625 3.8769531 5.605957.2207031.0839844.4052734.2431641.5195313.4492188l1.6035156 2.8857422 1.6035156-2.8857422c.1142578-.2060547.2988281-.3652344.5195313-.4492188 2.3193359-.8793945 3.8769531-3.1323242 3.8769531-5.605957 0-3.3085937-2.6914062-6-6-6zm0 9c-1.6542969 0-3-1.3457031-3-3s1.3457031-3 3-3 3 1.3457031 3 3-1.3457031 3-3 3zm0-4c-.5517578 0-1 .4487305-1 1s.4482422 1 1 1 1-.4487305 1-1-.4482422-1-1-1z"></path></g></svg>
+            </i>
+            <h5>1199 N. Fairfax St. Suite 300<br> Alexandria, VA 22314</h5>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                  <path d="M437.15,74.817C388.895,26.571,324.561,0,256,0C187.587,0,123.279,26.65,74.92,75.041
+                    C26.559,123.435-0.048,187.766,0,256.184c0.048,68.507,27.005,132.938,75.905,181.425C124.335,485.629,188.219,512,255.997,512
+                    c0.677,0,1.357-0.002,2.035-0.008c44.288-0.345,87.858-12.192,126.001-34.262l-15.024-25.967
+                    c-33.653,19.472-72.109,29.925-111.21,30.23c-60.48,0.456-117.575-22.858-160.77-65.688C53.847,373.49,30.043,316.616,30,256.163
+                    C29.958,195.762,53.447,138.97,96.141,96.247C138.832,53.527,195.605,30,256,30c124.595,0,225.979,101.365,226,225.959
+                    c0.008,49.387-15.621,96.298-45.198,135.661c-2.573,3.424-6.37,5.478-10.692,5.784c-4.368,0.308-8.658-1.291-11.756-4.388
+                    l-20.406-20.406l9.06-9.06l-70.711-70.711l-28.284,28.284c-58.885-7.935-105.202-54.252-113.137-113.137l28.284-28.284
+                    l-70.711-70.711l-39.054,39.054c-3.826,66.249,19.552,133.776,70.167,184.391s118.142,73.993,184.391,70.167l8.782-8.781
+                    l20.406,20.406c9.247,9.247,22.033,14.022,35.082,13.1c12.935-0.913,24.803-7.36,32.563-17.688
+                    C494.3,365.039,512.01,311.895,512,255.954C511.988,187.393,485.406,123.064,437.15,74.817z"></path>
+              </svg>
+            </i>
+            <h5>Phone:</h5><a href="callto:800-836-4620">800-836-4620</a>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg height="512" viewBox="0 0 32 32" width="512" xmlns="http://www.w3.org/2000/svg"><g data-name="Layer 34"><path d="m30 9v14a3 3 0 0 1 -3 3h-22a3 3 0 0 1 -3-3v-14a2.87 2.87 0 0 1 .19-1l12.15 8.1a3 3 0 0 0 3.32 0l12.15-8.1a2.87 2.87 0 0 1 .19 1zm-13.45 5.43 12-8a3 3 0 0 0 -1.55-.43h-22a3 3 0 0 0 -1.54.44l12 8a1 1 0 0 0 1.09-.01z"></path></g></svg>
+            </i>
+            <h5>Email:</h5><a href="mailto:information@domain.com">information@domain.com</a>
+          </div> -->
+          <!-- This Comment above code as to delete on both side html and css -->
+
+          <div class="share-post-icon mt-4 pt-3">
+            <button class="main-btn" type="button">Donation</button>
+
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="team-img">
+          <img class="team-img-img1" alt="img" src="assets/img/e1.webp">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container spacing">
+    <div class="row align-items-center">
+      <div class="col-lg-7">
+        <div class="team-img">
+          <img class="team-img-img1" alt="img" src="assets/img/e1.webp">
+        </div>
+      </div>
+      <div class="col-lg-5">
+        <div class="team-data-page">
+          <h2>शिक्षा </h2>
+          <span>(संस्कार केन्द्र, छात्रावास, विद्यालय एवं आवासीय विद्यालय)
+            <br>
+            मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+            जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल
+            भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई
+            दिशा देने की आवश्यकता है।
+          </span>
+
+          <!-- This Comment below code as to delete on both side html and css -->
+          <!-- <div class="contact-info mt-4">
+            <i>
+              <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m12 22c-.3632813 0-.6972656-.1967773-.8740234-.5141602l-2.3066406-4.1518555c-2.897461-1.2597655-4.819336-4.1606445-4.819336-7.3339843 0-4.4111328 3.5888672-8 8-8s8 3.5888672 8 8c0 3.1733398-1.921875 6.0742188-4.8193359 7.3339844l-2.3066406 4.1518555c-.1767579.3173828-.5107422.5141601-.8740235.5141601zm0-18c-3.3085938 0-6 2.6914063-6 6 0 2.4736328 1.5576172 4.7265625 3.8769531 5.605957.2207031.0839844.4052734.2431641.5195313.4492188l1.6035156 2.8857422 1.6035156-2.8857422c.1142578-.2060547.2988281-.3652344.5195313-.4492188 2.3193359-.8793945 3.8769531-3.1323242 3.8769531-5.605957 0-3.3085937-2.6914062-6-6-6zm0 9c-1.6542969 0-3-1.3457031-3-3s1.3457031-3 3-3 3 1.3457031 3 3-1.3457031 3-3 3zm0-4c-.5517578 0-1 .4487305-1 1s.4482422 1 1 1 1-.4487305 1-1-.4482422-1-1-1z"></path></g></svg>
+            </i>
+            <h5>1199 N. Fairfax St. Suite 300<br> Alexandria, VA 22314</h5>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                  <path d="M437.15,74.817C388.895,26.571,324.561,0,256,0C187.587,0,123.279,26.65,74.92,75.041
+                    C26.559,123.435-0.048,187.766,0,256.184c0.048,68.507,27.005,132.938,75.905,181.425C124.335,485.629,188.219,512,255.997,512
+                    c0.677,0,1.357-0.002,2.035-0.008c44.288-0.345,87.858-12.192,126.001-34.262l-15.024-25.967
+                    c-33.653,19.472-72.109,29.925-111.21,30.23c-60.48,0.456-117.575-22.858-160.77-65.688C53.847,373.49,30.043,316.616,30,256.163
+                    C29.958,195.762,53.447,138.97,96.141,96.247C138.832,53.527,195.605,30,256,30c124.595,0,225.979,101.365,226,225.959
+                    c0.008,49.387-15.621,96.298-45.198,135.661c-2.573,3.424-6.37,5.478-10.692,5.784c-4.368,0.308-8.658-1.291-11.756-4.388
+                    l-20.406-20.406l9.06-9.06l-70.711-70.711l-28.284,28.284c-58.885-7.935-105.202-54.252-113.137-113.137l28.284-28.284
+                    l-70.711-70.711l-39.054,39.054c-3.826,66.249,19.552,133.776,70.167,184.391s118.142,73.993,184.391,70.167l8.782-8.781
+                    l20.406,20.406c9.247,9.247,22.033,14.022,35.082,13.1c12.935-0.913,24.803-7.36,32.563-17.688
+                    C494.3,365.039,512.01,311.895,512,255.954C511.988,187.393,485.406,123.064,437.15,74.817z"></path>
+              </svg>
+            </i>
+            <h5>Phone:</h5><a href="callto:800-836-4620">800-836-4620</a>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg height="512" viewBox="0 0 32 32" width="512" xmlns="http://www.w3.org/2000/svg"><g data-name="Layer 34"><path d="m30 9v14a3 3 0 0 1 -3 3h-22a3 3 0 0 1 -3-3v-14a2.87 2.87 0 0 1 .19-1l12.15 8.1a3 3 0 0 0 3.32 0l12.15-8.1a2.87 2.87 0 0 1 .19 1zm-13.45 5.43 12-8a3 3 0 0 0 -1.55-.43h-22a3 3 0 0 0 -1.54.44l12 8a1 1 0 0 0 1.09-.01z"></path></g></svg>
+            </i>
+            <h5>Email:</h5><a href="mailto:information@domain.com">information@domain.com</a>
+          </div> -->
+          <!-- This Comment above code as to delete on both side html and css -->
+
+          <div class="share-post-icon mt-4 pt-3">
+            <button class="main-btn" type="button">Donation</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container spacing">
+    <div class="row align-items-center">
+
+      <div class="col-lg-5">
+        <div class="team-data-page">
+          <h2>शिक्षा </h2>
+          <span>(संस्कार केन्द्र, छात्रावास, विद्यालय एवं आवासीय विद्यालय)
+            <br>
+            मनुष्य के जीवन में षिक्षा का बहुत महत्व है। व्यक्तिगत, पारिवारिक और सामाजिक
+            जीवन में उत्कृष्टता पाने के लिए व्यक्ति का षिक्षित होना बहुत आवष्यक है। उज्ज्वल
+            भविष्य के लिए षिक्षा ही एकमात्र साधन है। शिक्षा के उपयोग तो अनेक हैं परंतु उसे नई
+            दिशा देने की आवश्यकता है।
+          </span>
+
+          <!-- This Comment below code as to delete on both side html and css -->
+          <!-- <div class="contact-info mt-4">
+            <i>
+              <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><g><path d="m12 22c-.3632813 0-.6972656-.1967773-.8740234-.5141602l-2.3066406-4.1518555c-2.897461-1.2597655-4.819336-4.1606445-4.819336-7.3339843 0-4.4111328 3.5888672-8 8-8s8 3.5888672 8 8c0 3.1733398-1.921875 6.0742188-4.8193359 7.3339844l-2.3066406 4.1518555c-.1767579.3173828-.5107422.5141601-.8740235.5141601zm0-18c-3.3085938 0-6 2.6914063-6 6 0 2.4736328 1.5576172 4.7265625 3.8769531 5.605957.2207031.0839844.4052734.2431641.5195313.4492188l1.6035156 2.8857422 1.6035156-2.8857422c.1142578-.2060547.2988281-.3652344.5195313-.4492188 2.3193359-.8793945 3.8769531-3.1323242 3.8769531-5.605957 0-3.3085937-2.6914062-6-6-6zm0 9c-1.6542969 0-3-1.3457031-3-3s1.3457031-3 3-3 3 1.3457031 3 3-1.3457031 3-3 3zm0-4c-.5517578 0-1 .4487305-1 1s.4482422 1 1 1 1-.4487305 1-1-.4482422-1-1-1z"></path></g></svg>
+            </i>
+            <h5>1199 N. Fairfax St. Suite 300<br> Alexandria, VA 22314</h5>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                  <path d="M437.15,74.817C388.895,26.571,324.561,0,256,0C187.587,0,123.279,26.65,74.92,75.041
+                    C26.559,123.435-0.048,187.766,0,256.184c0.048,68.507,27.005,132.938,75.905,181.425C124.335,485.629,188.219,512,255.997,512
+                    c0.677,0,1.357-0.002,2.035-0.008c44.288-0.345,87.858-12.192,126.001-34.262l-15.024-25.967
+                    c-33.653,19.472-72.109,29.925-111.21,30.23c-60.48,0.456-117.575-22.858-160.77-65.688C53.847,373.49,30.043,316.616,30,256.163
+                    C29.958,195.762,53.447,138.97,96.141,96.247C138.832,53.527,195.605,30,256,30c124.595,0,225.979,101.365,226,225.959
+                    c0.008,49.387-15.621,96.298-45.198,135.661c-2.573,3.424-6.37,5.478-10.692,5.784c-4.368,0.308-8.658-1.291-11.756-4.388
+                    l-20.406-20.406l9.06-9.06l-70.711-70.711l-28.284,28.284c-58.885-7.935-105.202-54.252-113.137-113.137l28.284-28.284
+                    l-70.711-70.711l-39.054,39.054c-3.826,66.249,19.552,133.776,70.167,184.391s118.142,73.993,184.391,70.167l8.782-8.781
+                    l20.406,20.406c9.247,9.247,22.033,14.022,35.082,13.1c12.935-0.913,24.803-7.36,32.563-17.688
+                    C494.3,365.039,512.01,311.895,512,255.954C511.988,187.393,485.406,123.064,437.15,74.817z"></path>
+              </svg>
+            </i>
+            <h5>Phone:</h5><a href="callto:800-836-4620">800-836-4620</a>
+          </div>
+          <div class="contact-info mt-3">
+            <i>
+              <svg height="512" viewBox="0 0 32 32" width="512" xmlns="http://www.w3.org/2000/svg"><g data-name="Layer 34"><path d="m30 9v14a3 3 0 0 1 -3 3h-22a3 3 0 0 1 -3-3v-14a2.87 2.87 0 0 1 .19-1l12.15 8.1a3 3 0 0 0 3.32 0l12.15-8.1a2.87 2.87 0 0 1 .19 1zm-13.45 5.43 12-8a3 3 0 0 0 -1.55-.43h-22a3 3 0 0 0 -1.54.44l12 8a1 1 0 0 0 1.09-.01z"></path></g></svg>
+            </i>
+            <h5>Email:</h5><a href="mailto:information@domain.com">information@domain.com</a>
+          </div> -->
+          <!-- This Comment above code as to delete on both side html and css -->
+
+          <div class="share-post-icon mt-4 pt-3">
+            <button class="main-btn" type="button">Donation</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-7">
+        <div class="team-img">
+          <img class="team-img-img1" alt="img" src="assets/img/e1.webp">
         </div>
       </div>
     </div>
   </div>
 </section>
 <section class="cards-box">
-<div class="card card-item">
-  <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+  <div class="card card-item">
+    <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+        content.</p>
+      <button class="main-btn" type="button">Donation</button>
+    </div>
   </div>
-</div>
-<div class="card" style="width: 18rem; margin-left:20px; ">
-  <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+  <div class="card" style="width: 18rem; margin-left:20px; ">
+    <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+        content.</p>
+      <button class="main-btn" type="button">Donation</button>
+    </div>
   </div>
-</div>
-<div class="card" style="width: 18rem;  margin-left:20px; ">
-  <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+  <div class="card" style="width: 18rem;  margin-left:20px; ">
+    <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+        content.</p>
+        <button class="main-btn" type="button">Donation</button>
+    </div>
   </div>
-</div>
-<div class="card" style="width: 18rem; margin-left:20px; ">
-  <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+  <div class="card" style="width: 18rem; margin-left:20px; ">
+    <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+        content.</p>
+        <button class="main-btn" type="button">Donation</button>
+    </div>
   </div>
-</div>
 
 </section>
 <section class="gap no-top" stlye="margin-top:50px;">
   <div class="container">
     <div class="heading">
-     
+
       <!-- <p>working on charity</p> -->
       <h2>
-आगामी कार्यक्रम</h2>
+        आगामी कार्यक्रम</h2>
     </div>
     <div class="row">
       <div class="offset-xl-1 col-xl-10">
@@ -333,10 +500,12 @@ No.& UCS8022-23B00372 </h4>
           <div class="article-data">
             <h4>24<span>Mar, 2022</span></h4>
             <div>
-              <h5>By NicDark   <span class="px-3">-</span>    1 Comments</h5>
-              <a href="blog-details-1.html"><h3>The perfect way to end your campaign</h3></a>
+              <h5>By NicDark <span class="px-3">-</span> 1 Comments</h5>
+              <a href="blog-details-1.html">
+                <h3>The perfect way to end your campaign</h3>
+              </a>
               <h6>Duis sed odio sit amet nibh vulputa te rsus a amet mau accumsan ip suy veliu
-                  am nec tel</h6>
+                am nec tel</h6>
             </div>
           </div>
         </div>
@@ -346,16 +515,18 @@ No.& UCS8022-23B00372 </h4>
           <div class="article-data">
             <h4>24<span>Mar, 2022</span></h4>
             <div>
-              <h5>By NicDark   <span class="px-3">-</span>    1 Comments</h5>
-              <a href="blog-details-1.html"><h3>The perfect way to end your campaign</h3></a>
+              <h5>By NicDark <span class="px-3">-</span> 1 Comments</h5>
+              <a href="blog-details-1.html">
+                <h3>The perfect way to end your campaign</h3>
+              </a>
               <h6>Duis sed odio sit amet nibh vulputa te rsus a amet mau accumsan ip suy veliu
-                  am nec tel</h6>
+                am nec tel</h6>
             </div>
           </div>
           <img alt="article-img" src="https://via.placeholder.com/520x370">
         </div>
         <div class="button-gap">
-        <button type="button" style="margin-right:20px; padding: 12px;  border-radius:10px; margin-top:20px; background-color:red; color:white; border-color:red;width:110px">Contact Us </button>
+          <button class="main-cnt-btn" type="button">Contact Us</button>
         </div>
       </div>
     </div>
@@ -365,15 +536,16 @@ No.& UCS8022-23B00372 </h4>
   <div class="container">
     <div class="row align-items-end">
       <div class="heading">
-   
-          <p>Charity Services</p>
-          <h2>We're Mind, the Mental Health Charity</h2>
-        </div>
+
+        <p>Charity Services</p>
+        <h2>We're Mind, the Mental Health Charity</h2>
+      </div>
       <div class="col-lg-6">
         <div class="get-involved develop">
-            <i>
-              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                 <path d="M496.997,481.966h-45.999V239.473l0.347,0.245c6.568,4.635,15.62,3.27,20.528-3.095l37.006-47.987
+          <i>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512"
+              style="enable-background:new 0 0 512 512;" xml:space="preserve">
+              <path d="M496.997,481.966h-45.999V239.473l0.347,0.245c6.568,4.635,15.62,3.27,20.528-3.095l37.006-47.987
                     c2.491-3.231,3.559-7.337,2.958-11.372c-0.601-4.035-2.821-7.651-6.146-10.015L282.83,8.849c-15.829-11.753-37.83-11.753-53.658,0
                     L6.31,167.249c-3.297,2.344-5.508,5.92-6.131,9.917s0.395,8.076,2.823,11.312l36.006,47.987
                     c4.803,6.402,13.787,7.906,20.413,3.415l1.583-1.072v243.158H15.004c-8.284,0-15,6.716-15,15c0,8.284,6.716,15,15,15h481.994
@@ -398,30 +570,53 @@ No.& UCS8022-23B00372 </h4>
                     c0-12.007-13.465-19.159-23.415-12.417l-13.163,8.919l-18.189-24.243l210.451-149.58c0.104-0.074,0.208-0.15,0.31-0.227
                     c5.301-3.976,12.705-3.976,18.006,0c0.103,0.077,0.206,0.152,0.31,0.227l210.286,149.462l-18.701,24.25l-12.25-8.646
                     C434.722,191.265,420.998,198.392,420.998,210.525z"></path>
-              </svg>
-            </i>
-            <div>
+            </svg>
+          </i>
+          <div>
             <h3>Develop and Lead</h3>
             <p>
               Duis il odio amet nibh vulp Morbi accumsan ipsuy velia uctor Class aptent.
             </p>
-            </div>
           </div>
-          <div class="get-involved develop">
-            <i>
-              <svg height="491pt" viewBox="-35 -15 491 491.99767" width="491pt" xmlns="http://www.w3.org/2000/svg"><path d="m181.019531 153.625c0-29.214844-23.78125-52.9375-52.929687-52.9375-29.214844 0-52.933594 23.785156-52.933594 52.9375 0 29.214844 23.78125 52.929688 52.933594 52.929688 29.148437 0 52.929687-23.714844 52.929687-52.929688zm-85.472656 0c0-17.902344 14.574219-32.480469 32.476563-32.480469 17.898437 0 32.476562 14.578125 32.476562 32.480469 0 17.898438-14.578125 32.472656-32.476562 32.472656-17.902344 0-32.476563-14.574218-32.476563-32.472656zm0 0"></path><path d="m123.226562 350.84375h-43.726562v-62.96875c0-4.605469-3.707031-8.3125-8.308594-8.3125-4.605468 0-8.3125 3.707031-8.3125 8.3125v62.96875h-18.601562c-.828125 0-1.726563-.640625-1.726563-1.726562v-61.5c0-27.292969 22.246094-49.546876 49.542969-49.546876h70.960938c9.914062 0 18.734374 2.753907 26.980468 8.375 1.789063 1.214844 3.773438 1.789063 5.753906 1.789063 3.261719 0 6.457032-1.53125 8.4375-4.46875 3.199219-4.667969 1.984376-11-2.683593-14.195313-11.574219-7.925781-24.546875-11.953124-38.488281-11.953124h-70.960938c-38.613281 0-70 31.390624-70 70v61.5c0 12.210937 9.976562 22.1875 22.183594 22.1875h78.949218c5.628907 0 10.234376-4.605469 10.234376-10.234376 0-5.625-4.605469-10.226562-10.234376-10.226562zm0 0"></path><path d="m308.882812 267.097656c26.847657 0 48.710938-21.867187 48.710938-48.714844 0-26.851562-21.863281-48.710937-48.710938-48.710937-26.851562 0-48.71875 21.859375-48.71875 48.710937 0 26.847657 21.867188 48.714844 48.71875 48.714844zm0-76.972656c15.597657 0 28.253907 12.660156 28.253907 28.257812 0 15.597657-12.65625 28.257813-28.253907 28.257813-15.597656 0-28.261718-12.660156-28.261718-28.257813 0-15.597656 12.664062-28.257812 28.261718-28.257812zm0 0"></path><path d="m385.464844 295.925781c-11.890625-12.144531-27.804688-18.789062-44.875-18.789062h-63.929688c-.511718 0-.960937 0-1.472656 0-1.59375-.066407-3.453125-.066407-5.558594.1875-5.628906.640625-9.589844 5.757812-8.949218 11.378906.636718 5.179687 5.046874 9.015625 10.164062 9.015625.382812 0 .828125 0 1.214844-.066406.636718-.0625 1.597656-.0625 2.679687-.0625h65.789063c11.503906 0 22.246094 4.476562 30.234375 12.65625 7.992187 8.1875 12.402343 19.179687 12.402343 30.945312v55.550782c0 .324218-.125.515624-.511718.515624h-11.890625v-55.808593c0-4.605469-3.707031-8.3125-8.308594-8.3125s-8.308594 3.707031-8.308594 8.3125v55.808593h-45.964843c-5.628907 0-10.234376 4.601563-10.234376 10.226563 0 5.628906 4.605469 10.226563 10.234376 10.226563h74.472656c11.574218 0 20.972656-9.394532 20.972656-20.96875v-55.550782c.0625-17.199218-6.394531-33.246094-18.160156-45.265625zm0 0"></path><path d="m170.539062 295.925781c0 22.632813 18.410157 40.980469 40.972657 40.980469 22.632812 0 40.980469-18.410156 40.980469-40.980469 0-22.628906-18.410157-40.972656-40.980469-40.972656-22.625 0-40.972657 18.40625-40.972657 40.972656zm40.972657-20.515625c11.316406 0 20.527343 9.203125 20.527343 20.515625 0 11.316407-9.210937 20.527344-20.527343 20.527344-11.3125 0-20.515625-9.210937-20.515625-20.527344 0-11.3125 9.203125-20.515625 20.515625-20.515625zm0 0"></path><path d="m273.910156 360.367188c-9.910156-10.164063-23.207031-15.722657-37.398437-15.722657h-51.078125c-29.410156 0-53.320313 23.90625-53.320313 53.3125v44.371094c0 10.417969 8.507813 18.917969 18.925781 18.917969h119.292969c10.289063 0 18.664063-8.5 18.664063-18.917969v-44.371094c.132812-14.253906-5.304688-27.613281-15.085938-37.589843zm-88.414062 4.730468h51.078125c8.632812 0 16.753906 3.390625 22.761719 9.589844 6.007812 6.203125 9.332031 14.453125 9.332031 23.269531v42.835938h-6.136719v-42.574219c0-4.605469-3.707031-8.3125-8.3125-8.3125-4.601562 0-8.308594 3.707031-8.308594 8.3125v42.574219h-67.320312v-42.574219c0-4.605469-3.707032-8.3125-8.308594-8.3125s-8.3125 3.707031-8.3125 8.3125v42.574219h-9.332031v-42.835938c0-18.152343 14.703125-32.859375 32.859375-32.859375zm0 0"></path><path d="m414.367188 113.730469-59.585938-29.339844v-66.9375c0-9.78125-7.671875-17.453125-17.453125-17.453125h-42.128906c-9.78125 0-17.449219 7.671875-17.449219 17.453125v29.152344l-59.90625-29.152344c-6.070312-2.941406-12.976562-2.941406-19.050781 0l-193.574219 94.804687c-5.371094 2.625-7.609375 9.144532-4.988281 14.515626 1.914062 3.835937 5.753906 6.074218 9.78125 6.074218 1.597656 0 3.257812-.386718 4.796875-1.089844l193.511718-94.804687 75.4375 36.757813c.125.066406.253907.128906.378907.191406.066406 0 .128906.0625.195312.0625.253907.128906.578125.191406.832031.324218.0625 0 .125.0625.1875.0625.324219.0625.578126.191407.898438.253907h.128906c.320313.0625.636719.125 1.023438.125.378906.066406.703125.066406 1.085937.066406.316407 0 .703125 0 1.019531-.066406h.257813c.253906 0 .578125-.0625.832031-.125h.1875c.324219-.0625.578125-.128907.835938-.191407.125-.0625.253906-.0625.316406-.125.195312-.070312.386719-.132812.574219-.195312.128906-.0625.195312-.0625.324219-.128906.253906-.125.511718-.253906.765624-.382813.0625-.066406.125-.066406.257813-.128906.191406-.125.445313-.253906.636719-.378906.066406-.070313.128906-.070313.191406-.132813.511719-.378906 1.023438-.765625 1.46875-1.214844.0625-.0625.0625-.0625.132812-.125.1875-.191406.378907-.449218.574219-.640624 0-.0625.0625-.0625.0625-.125.191407-.257813.382813-.511719.578125-.773438 0-.0625.0625-.0625.0625-.125.125-.191406.253906-.445312.378906-.640625.0625-.125.132813-.1875.195313-.316406.0625-.0625.0625-.128907.128906-.195313.0625-.0625.0625-.125.0625-.1875.0625-.191406.191407-.386718.253907-.640625.066406-.125.132812-.253906.132812-.386719.0625-.1875.125-.378906.1875-.574218.0625-.191406.0625-.316406.128906-.511719.0625-.191406.0625-.316406.125-.507813.070313-.195312.070313-.386718.070313-.574218 0-.132813.0625-.324219.0625-.449219 0-.257813 0-.449219.0625-.703125 0-.0625 0-.125 0-.257812v-42.320313h33.625v69.683594c0 .195312 0 .449219.0625.636719 0 .128906 0 .324218.066406.449218 0 .191406.0625.386719.0625.574219 0 .191406.066406.386719.128906.515625.066407.125.066407.316406.128907.445312.0625.191407.125.382813.191406.578126.0625.125.0625.253906.125.378906.070312.195312.132812.386718.257812.574218.066406.128907.128906.261719.191406.386719.0625.191407.191407.378907.257813.511719.0625.128906.191406.316406.253906.445312.0625.132813.191407.320313.253907.449219.132812.1875.257812.320313.386718.511719.0625.125.1875.253906.257813.320312.125.191407.253906.316407.441406.507813.066406.132813.195313.195313.261719.257813.125.128906.316406.253906.441406.449218.132812.128906.257812.191406.324219.316406.125.128907.320312.191407.449219.324219.125.125.316406.1875.441406.316407.132812.0625.257812.125.386718.257812.191407.125.382813.191406.574219.316406.0625 0 .0625.0625.128907.0625l65.652343 32.355469c1.539063.765625 3.199219 1.144531 4.796875 1.144531 4.027344 0 7.867188-2.234375 9.78125-6.074218 2.683594-5.433594.449219-11.953126-4.917968-14.636719zm0 0"></path></svg>
-            </i>
-            <div>
+        </div>
+        <div class="get-involved develop">
+          <i>
+            <svg height="491pt" viewBox="-35 -15 491 491.99767" width="491pt" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="m181.019531 153.625c0-29.214844-23.78125-52.9375-52.929687-52.9375-29.214844 0-52.933594 23.785156-52.933594 52.9375 0 29.214844 23.78125 52.929688 52.933594 52.929688 29.148437 0 52.929687-23.714844 52.929687-52.929688zm-85.472656 0c0-17.902344 14.574219-32.480469 32.476563-32.480469 17.898437 0 32.476562 14.578125 32.476562 32.480469 0 17.898438-14.578125 32.472656-32.476562 32.472656-17.902344 0-32.476563-14.574218-32.476563-32.472656zm0 0">
+              </path>
+              <path
+                d="m123.226562 350.84375h-43.726562v-62.96875c0-4.605469-3.707031-8.3125-8.308594-8.3125-4.605468 0-8.3125 3.707031-8.3125 8.3125v62.96875h-18.601562c-.828125 0-1.726563-.640625-1.726563-1.726562v-61.5c0-27.292969 22.246094-49.546876 49.542969-49.546876h70.960938c9.914062 0 18.734374 2.753907 26.980468 8.375 1.789063 1.214844 3.773438 1.789063 5.753906 1.789063 3.261719 0 6.457032-1.53125 8.4375-4.46875 3.199219-4.667969 1.984376-11-2.683593-14.195313-11.574219-7.925781-24.546875-11.953124-38.488281-11.953124h-70.960938c-38.613281 0-70 31.390624-70 70v61.5c0 12.210937 9.976562 22.1875 22.183594 22.1875h78.949218c5.628907 0 10.234376-4.605469 10.234376-10.234376 0-5.625-4.605469-10.226562-10.234376-10.226562zm0 0">
+              </path>
+              <path
+                d="m308.882812 267.097656c26.847657 0 48.710938-21.867187 48.710938-48.714844 0-26.851562-21.863281-48.710937-48.710938-48.710937-26.851562 0-48.71875 21.859375-48.71875 48.710937 0 26.847657 21.867188 48.714844 48.71875 48.714844zm0-76.972656c15.597657 0 28.253907 12.660156 28.253907 28.257812 0 15.597657-12.65625 28.257813-28.253907 28.257813-15.597656 0-28.261718-12.660156-28.261718-28.257813 0-15.597656 12.664062-28.257812 28.261718-28.257812zm0 0">
+              </path>
+              <path
+                d="m385.464844 295.925781c-11.890625-12.144531-27.804688-18.789062-44.875-18.789062h-63.929688c-.511718 0-.960937 0-1.472656 0-1.59375-.066407-3.453125-.066407-5.558594.1875-5.628906.640625-9.589844 5.757812-8.949218 11.378906.636718 5.179687 5.046874 9.015625 10.164062 9.015625.382812 0 .828125 0 1.214844-.066406.636718-.0625 1.597656-.0625 2.679687-.0625h65.789063c11.503906 0 22.246094 4.476562 30.234375 12.65625 7.992187 8.1875 12.402343 19.179687 12.402343 30.945312v55.550782c0 .324218-.125.515624-.511718.515624h-11.890625v-55.808593c0-4.605469-3.707031-8.3125-8.308594-8.3125s-8.308594 3.707031-8.308594 8.3125v55.808593h-45.964843c-5.628907 0-10.234376 4.601563-10.234376 10.226563 0 5.628906 4.605469 10.226563 10.234376 10.226563h74.472656c11.574218 0 20.972656-9.394532 20.972656-20.96875v-55.550782c.0625-17.199218-6.394531-33.246094-18.160156-45.265625zm0 0">
+              </path>
+              <path
+                d="m170.539062 295.925781c0 22.632813 18.410157 40.980469 40.972657 40.980469 22.632812 0 40.980469-18.410156 40.980469-40.980469 0-22.628906-18.410157-40.972656-40.980469-40.972656-22.625 0-40.972657 18.40625-40.972657 40.972656zm40.972657-20.515625c11.316406 0 20.527343 9.203125 20.527343 20.515625 0 11.316407-9.210937 20.527344-20.527343 20.527344-11.3125 0-20.515625-9.210937-20.515625-20.527344 0-11.3125 9.203125-20.515625 20.515625-20.515625zm0 0">
+              </path>
+              <path
+                d="m273.910156 360.367188c-9.910156-10.164063-23.207031-15.722657-37.398437-15.722657h-51.078125c-29.410156 0-53.320313 23.90625-53.320313 53.3125v44.371094c0 10.417969 8.507813 18.917969 18.925781 18.917969h119.292969c10.289063 0 18.664063-8.5 18.664063-18.917969v-44.371094c.132812-14.253906-5.304688-27.613281-15.085938-37.589843zm-88.414062 4.730468h51.078125c8.632812 0 16.753906 3.390625 22.761719 9.589844 6.007812 6.203125 9.332031 14.453125 9.332031 23.269531v42.835938h-6.136719v-42.574219c0-4.605469-3.707031-8.3125-8.3125-8.3125-4.601562 0-8.308594 3.707031-8.308594 8.3125v42.574219h-67.320312v-42.574219c0-4.605469-3.707032-8.3125-8.308594-8.3125s-8.3125 3.707031-8.3125 8.3125v42.574219h-9.332031v-42.835938c0-18.152343 14.703125-32.859375 32.859375-32.859375zm0 0">
+              </path>
+              <path
+                d="m414.367188 113.730469-59.585938-29.339844v-66.9375c0-9.78125-7.671875-17.453125-17.453125-17.453125h-42.128906c-9.78125 0-17.449219 7.671875-17.449219 17.453125v29.152344l-59.90625-29.152344c-6.070312-2.941406-12.976562-2.941406-19.050781 0l-193.574219 94.804687c-5.371094 2.625-7.609375 9.144532-4.988281 14.515626 1.914062 3.835937 5.753906 6.074218 9.78125 6.074218 1.597656 0 3.257812-.386718 4.796875-1.089844l193.511718-94.804687 75.4375 36.757813c.125.066406.253907.128906.378907.191406.066406 0 .128906.0625.195312.0625.253907.128906.578125.191406.832031.324218.0625 0 .125.0625.1875.0625.324219.0625.578126.191407.898438.253907h.128906c.320313.0625.636719.125 1.023438.125.378906.066406.703125.066406 1.085937.066406.316407 0 .703125 0 1.019531-.066406h.257813c.253906 0 .578125-.0625.832031-.125h.1875c.324219-.0625.578125-.128907.835938-.191407.125-.0625.253906-.0625.316406-.125.195312-.070312.386719-.132812.574219-.195312.128906-.0625.195312-.0625.324219-.128906.253906-.125.511718-.253906.765624-.382813.0625-.066406.125-.066406.257813-.128906.191406-.125.445313-.253906.636719-.378906.066406-.070313.128906-.070313.191406-.132813.511719-.378906 1.023438-.765625 1.46875-1.214844.0625-.0625.0625-.0625.132812-.125.1875-.191406.378907-.449218.574219-.640624 0-.0625.0625-.0625.0625-.125.191407-.257813.382813-.511719.578125-.773438 0-.0625.0625-.0625.0625-.125.125-.191406.253906-.445312.378906-.640625.0625-.125.132813-.1875.195313-.316406.0625-.0625.0625-.128907.128906-.195313.0625-.0625.0625-.125.0625-.1875.0625-.191406.191407-.386718.253907-.640625.066406-.125.132812-.253906.132812-.386719.0625-.1875.125-.378906.1875-.574218.0625-.191406.0625-.316406.128906-.511719.0625-.191406.0625-.316406.125-.507813.070313-.195312.070313-.386718.070313-.574218 0-.132813.0625-.324219.0625-.449219 0-.257813 0-.449219.0625-.703125 0-.0625 0-.125 0-.257812v-42.320313h33.625v69.683594c0 .195312 0 .449219.0625.636719 0 .128906 0 .324218.066406.449218 0 .191406.0625.386719.0625.574219 0 .191406.066406.386719.128906.515625.066407.125.066407.316406.128907.445312.0625.191407.125.382813.191406.578126.0625.125.0625.253906.125.378906.070312.195312.132812.386718.257812.574218.066406.128907.128906.261719.191406.386719.0625.191407.191407.378907.257813.511719.0625.128906.191406.316406.253906.445312.0625.132813.191407.320313.253907.449219.132812.1875.257812.320313.386718.511719.0625.125.1875.253906.257813.320312.125.191407.253906.316407.441406.507813.066406.132813.195313.195313.261719.257813.125.128906.316406.253906.441406.449218.132812.128906.257812.191406.324219.316406.125.128907.320312.191407.449219.324219.125.125.316406.1875.441406.316407.132812.0625.257812.125.386718.257812.191407.125.382813.191406.574219.316406.0625 0 .0625.0625.128907.0625l65.652343 32.355469c1.539063.765625 3.199219 1.144531 4.796875 1.144531 4.027344 0 7.867188-2.234375 9.78125-6.074218 2.683594-5.433594.449219-11.953126-4.917968-14.636719zm0 0">
+              </path>
+            </svg>
+          </i>
+          <div>
             <h3>Individual Donors</h3>
             <p>
               Duis il odio amet nibh vulp Morbi accumsan ipsuy velia uctor Class aptent.
             </p>
-            </div>
           </div>
-          <div class="get-involved develop mb-0">
-            <i>
-              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-                  <path d="M512,163.587c0.016-4.019-1.582-7.875-4.435-10.706L379.286,25.602c-5.864-5.818-15.331-5.801-21.172,0.042
+        </div>
+        <div class="get-involved develop mb-0">
+          <i>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 512 512"
+              style="enable-background:new 0 0 512 512;" xml:space="preserve">
+              <path d="M512,163.587c0.016-4.019-1.582-7.875-4.435-10.706L379.286,25.602c-5.864-5.818-15.331-5.801-21.172,0.042
                     l-37.278,37.278c-21.778-2.063-43.996,0.23-64.829,6.697c-20.865-6.475-43.039-8.766-64.844-6.697l-37.277-37.277
                     c-5.842-5.842-15.307-5.861-21.172-0.042L4.435,152.881c-2.853,2.831-4.45,6.688-4.435,10.706s1.644,7.863,4.518,10.671
                     l38.143,37.265c-2.106,22.392,0.38,45.257,7.287,66.592c4.364,13.479,10.342,26.122,17.846,37.849l-6.664,6.664
@@ -454,15 +649,15 @@ No.& UCS8022-23B00372 </h4>
                     c0-4.006,1.561-7.773,4.394-10.606c17.545-17.545,67.494-67.494,84.853-84.853c0.001-0.001,0.002-0.003,0.004-0.004
                     c30.114-30.111,71.827-44.26,114.567-38.187c4.666,0.664,9.382-0.908,12.717-4.244l31.854-31.854L475.62,163.447L443.099,195.219z
                     "></path>
-              </svg>
-            </i>
-            <div>
+            </svg>
+          </i>
+          <div>
             <h3>Provide a Range</h3>
             <p>
               Duis il odio amet nibh vulp Morbi accumsan ipsuy velia uctor Class aptent.
             </p>
-            </div>
           </div>
+        </div>
       </div>
       <div class="col-lg-6">
         <div class="article hoverimg">
