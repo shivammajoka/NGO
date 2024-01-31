@@ -113,7 +113,7 @@
           <div class="row align-items-center">
             <div class="col-lg-3">
               <div class="logo">
-                <a href="index.html">
+                <a href="index.php">
                   <img alt="logo" src="assets/img/logosewa.png" class="white-logo" width="100px">
                   <img alt="logo" src="assets/img/logosewa.png" class="black-logo" width="100px">
                 </a>
