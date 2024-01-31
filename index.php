@@ -322,8 +322,9 @@ No.& UCS8022-23B00372 </h4>
   <div class="container">
     <div class="heading">
      
-      <p>working on charity</p>
-      <h2>Recent Articles</h2>
+      <!-- <p>working on charity</p> -->
+      <h2>
+आगामी कार्यक्रम</h2>
     </div>
     <div class="row">
       <div class="offset-xl-1 col-xl-10">
