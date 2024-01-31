@@ -23,9 +23,9 @@
                     <!-- LOGO -->
                     <div class="navbar-brand-box d-flex align-items-left">
                         <a href="index.html" class="logo">
-                            <i class="mdi mdi-album"></i>
+                           <img src="assets/images/logosewa.png" alt="" width="90px" style="margin-top:15px;">
                             <span>
-                                Xeloro
+                            सेवा भारती मध्य भारत 
                             </span>
                         </a>
 
@@ -54,7 +54,7 @@
                                 </form>
                             </div>
                         </div>
-
+<!-- 
                         <div class="dropdown d-inline-block">
                             <button type="button" class="btn header-item waves-effect waves-light" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" fdprocessedid="blyaeq">
                                 <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
@@ -63,30 +63,29 @@
                             </button>
                             <div class="dropdown-menu dropdown-menu-right">
 
-                                <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <img src="assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Spanish</span>
                                 </a>
 
-                                <!-- item-->
+                      
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <img src="assets/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12"> <span class="align-middle">German</span>
                                 </a>
 
-                                <!-- item-->
+                             
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <img src="assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Italian</span>
                                 </a>
 
-                                <!-- item-->
+                            
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
                                     <img src="assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Russian</span>
                                 </a>
                             </div>
-                        </div>
+                        </div> --->
 
                         <div class="dropdown d-inline-block">
                             <button type="button" class="btn header-item noti-icon waves-effect waves-light" id="page-header-notifications-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" fdprocessedid="g84d9">
