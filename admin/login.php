@@ -24,22 +24,22 @@ else{
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>sewabharti</title>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
-
+    <link rel="shortcut icon" href="assets/images/logosewa.png">
     <link rel="stylesheet" href="assets/css/login2.css">
 </head>
-<body style="background-image:url(assets/images/img1.jpg)">
+<body >
     <div class="wrapper">
-        <form action="">
+        <form action="" method="POST">
             <h1>Login</h1>
             <div class="input-box">
-                <input type="text" placeholder="user" required>
+                <input type="text" placeholder="user" name="user" required>
                 <i class='bx bxs-user'></i>
             </div>
             <div class="input-box">
-                <input type="password" placeholder="pass" required>
+                <input type="password" placeholder="pass" name="pass" required>
                 <i class='bx bxs-lock-alt' ></i>
             </div>
             <div class="remember-forgot">
@@ -47,7 +47,7 @@ else{
                 <a href="#">Forgot password?</a>
             </div>
 
-            <button type="submit" class="btn">Login</button>
+            <button type="submit" class="btn" name="submit">Login</button>
 
             <div class="register-link">
                 <p>Don't have an account? <a href="#">Regeister</a></p>
