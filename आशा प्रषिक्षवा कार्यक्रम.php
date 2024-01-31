@@ -2,7 +2,7 @@
 <section class="page-title-area" style="background-image:url(assets/img/slider-1.png)">
   <div class="container">
     <div class="title-area-data">
-      <h2>प्रावा बǐदेव भवडारी सेवा विद्या मंदिर, भोपाल</h2>
+      <h2>आशा प्रषिक्षवा कार्यक्रम</h2>
       <p>Organisations committed to ending poverty worldwide.</p>
     </div>
     <ol class="breadcrumb">
