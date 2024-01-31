@@ -218,7 +218,7 @@ No.& UCS8022-23B00372 </h4>
     <div class="row align-items-center">
       <div class="col-lg-7">
         <div class="team-img">
-          <img alt="img" src="assets/img/e1.webp">
+          <img class="team-img-img1" alt="img" src="assets/img/e1.webp">
         </div>
       </div>
       <div class="col-lg-5">
