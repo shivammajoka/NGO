@@ -239,21 +239,18 @@
                             <!-- <li><a href="#">गुना  </a></li> -->
                           </ul>
                         </li>
-                       
-                        <li><a href="JavaScript:void(0)">मेंहदी प्रषिक्षण </a>
-
+                        <li><a href="मेंहदी प्रषिक्षण.php">मेंहदी प्रषिक्षण</a>
                           <ul>
-                            <li><a href="#">विदिशा </a></li>
-                           
+                            <li><a href="मेंहदी प्रषिक्षण-विदिशा.php">विदिशा</a></li>
                           </ul>
                         </li>
-                        <li><a href="JavaScript:void(0)"> सिलाई केन्द्र </a>
+                        <li><a href="सिलाई केन्द्र.php">सिलाई केन्द्र</a>
                           <ul>
-                            <li><a href="#">भोपाल </a></li>
-                            <li><a href="#"> अशोक नगर </a></li>
-                            <li><a href="#">ग्वालियर</a></li>
-                            <li><a href="#">शिवपुरी </a></li>
-                            <li><a href="#">शिवपुरी </a></li>
+                            <li><a href="सिलाई केन्द्र-भोपाल.php">भोपाल</a></li>
+                            <li><a href="सिलाई केन्द्र-अशोक नगर.php">अशोक नगर</a></li>
+                            <li><a href="सिलाई केन्द्र-ग्वालियर.php">ग्वालियर</a></li>
+                            <li><a href="#">शिवपुरी</a></li>
+                            <li><a href="#">शिवपुरी</a></li>
                           </ul>
                         </li>
                         <li><a href="JavaScript:void(0)"> बचत समूह </a>
