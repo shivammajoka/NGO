@@ -17,13 +17,13 @@
             <ul class="social-media">
                   <li>
                     <a href="#">
-                      <i class="fab fa-facebook-f icon"></i>facebook</a>
+                      <i class="fab fa-facebook-f icon"></i>Facebook</a>
                   </li>
                   <li>
-                    <a href="#"><i class="fab fa-twitter icon"></i>twitter</a>
+                    <a href="#"><i class="fab fa-twitter icon"></i>Twitter</a>
                   </li>
                   <li>
-                    <a href="#"><i class="fab fa-google-plus-g icon"></i>google+</a></li>
+                    <a href="#"><i class="fab fa-google-plus-g icon"></i>Google+</a></li>
               </ul>
           </div>
         </div>
