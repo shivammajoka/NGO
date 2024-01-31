@@ -240,12 +240,10 @@
                             <!-- <li><a href="#">गुना  </a></li> -->
                           </ul>
                         </li>
-                        <li><a href="JavaScript:void(0)"> कम्प्यूटर प्रषिक्षण केन्द्र </a>
+                        <li><a href="JavaScript:void(0)"> मेंहदी प्रषिक्षण </a>
                           <ul>
-                            <li><a href="#">मेंहदी प्रषिक्षण </a></li>
-                            <!-- <li><a href="#"> बैतूल </a></li> -->
-                            <!-- <li><a href="#">ग्वालियर</a></li> -->
-                            <!-- <li><a href="#">गुना  </a></li> -->
+                            <li><a href="#">विदिशा </a></li>
+                           
                           </ul>
                         </li>
                         <li><a href="JavaScript:void(0)"> सिलाई केन्द्र </a>
