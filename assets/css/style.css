@@ -175,7 +175,7 @@ img {
 }
 
 .gap {
-    padding: 120px 0;
+    padding: 10px 0;
 }
 
 .no-top {
@@ -3053,6 +3053,7 @@ footer.footer-two .wpo-lower-footer .boder {
 }
 
 .gap-margin {
+    padding: 5px 0;
     margin: 0 70px;
 }
 
