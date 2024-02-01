@@ -536,8 +536,6 @@
   <div class="container">
     <div class="row align-items-end">
       <div class="heading">
-
-        <p>Charity Services</p>
         <h2>We're Mind, the Mental Health Charity</h2>
       </div>
       <div class="col-lg-6">
