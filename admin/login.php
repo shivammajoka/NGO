@@ -11,9 +11,11 @@ if($count==1){
      session_start();
     $_SESSION['AdminloginId']=$_POST['user'];
     header("Location:admin.php");
+    echo "yes";
 }
 else{
     echo"<script> alert('incorrect pas') </script>";
+    // echo "no";
 }
 }
 
@@ -51,7 +53,7 @@ else{
                                 <div class="row">
                                     <!-- <div class="col-lg-5 d-none d-lg-block bg-login rounded-left"></div> -->
                                     <div class="col-lg-5">
-                                        <img src="assets/images/logosewa.png" alt="">
+                                        <img src="assets/logosewa.png" alt="">
                                     </div>
                                     <div class="col-lg-7">
                                         <div class="p-5">

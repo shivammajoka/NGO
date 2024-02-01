@@ -1,4 +1,9 @@
+
+
+
 <?php include('includes/config.php') ?>
+
+
 
 
 <!DOCTYPE html>
@@ -33,31 +38,7 @@
                     </button>
 
                     <div class="dropdown d-none d-sm-inline-block">
-                        <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="mdi mdi-plus"></i> Create New
-                            <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
-                        </button>
-                        <div class="dropdown-menu">
-
-                            <!-- item-->
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                Application
-                            </a>
-
-                            <!-- item-->
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                Software
-                            </a>
-
-                            <!-- item-->
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                EMS System
-                            </a>
-
-                            <!-- item-->
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                CRM App
-                            </a>
+                        <h3>welcom mr <?php echo $_SESSION['AdminloginId']  ?></h3>
                         </div>
                     </div>
                 </div>
@@ -82,7 +63,7 @@
                             </form>
                         </div>
                     </div>
-
+<!-- 
                     <div class="dropdown d-inline-block">
                         <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
@@ -91,48 +72,35 @@
                         </button>
                         <div class="dropdown-menu dropdown-menu-right">
 
-                            <!-- item-->
+                            item
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <img src="assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
                                 <span class="align-middle">Spanish</span>
                             </a>
 
-                            <!-- item-->
+                            item
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <img src="assets/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12">
                                 <span class="align-middle">German</span>
                             </a>
 
-                            <!-- item-->
+                            item
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <img src="assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
                                 <span class="align-middle">Italian</span>
                             </a>
 
-                            <!-- item-->
+                            item
                             <a href="javascript:void(0);" class="dropdown-item notify-item">
                                 <img src="assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
                                 <span class="align-middle">Russian</span>
                             </a>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="dropdown d-inline-block">
-                        <button type="button" class="btn header-item noti-icon waves-effect" id="page-header-notifications-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <i class="mdi mdi-bell"></i>
-                            <span class="badge badge-danger badge-pill">3</span>
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right p-0" aria-labelledby="page-header-notifications-dropdown">
-                            <div class="p-3">
-                                <div class="row align-items-center">
-                                    <div class="col">
-                                        <h6 class="m-0"> Notifications </h6>
-                                    </div>
-                                    <div class="col-auto">
-                                        <a href="#!" class="small"> View All</a>
-                                    </div>
-                                </div>
-                            </div>
+
+                        
                             <div data-simplebar="init" style="max-height: 230px;"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: 0px; bottom: 0px;"><div class="simplebar-content-wrapper" style="height: auto; overflow: hidden; padding-right: 0px; padding-bottom: 0px;"><div class="simplebar-content" style="padding: 0px;">
                                 <a href="" class="text-reset notification-item">
                                     <div class="media">
@@ -169,44 +137,31 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div></div></div></div><div class="simplebar-placeholder" style="width: 0px; height: 0px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="transform: translate3d(0px, 0px, 0px); display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: hidden;"><div class="simplebar-scrollbar" style="transform: translate3d(0px, 0px, 0px); display: none;"></div></div></div>
-                            <div class="p-2 border-top">
-                                <a class="btn btn-sm btn-light btn-block text-center" href="javascript:void(0)">
-                                    <i class="mdi mdi-arrow-down-circle mr-1"></i> Load More..
-                                </a>
                             </div>
                         </div>
                     </div>
+                </div>
+            
+            </div>
+
+                           
 
                     <div class="dropdown d-inline-block ml-2">
-                        <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <img class="rounded-circle header-profile-user" src="assets/images/users/avatar-2.jpg" alt="Header Avatar">
-                            <span class="d-none d-sm-inline-block ml-1">Donald M.</span>
-                            <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-right">
-                            <a class="dropdown-item d-flex align-items-center justify-content-between" href="javascript:void(0)">
-                                <span>Inbox</span>
-                                <span>
-                                    <span class="badge badge-pill badge-info">3</span>
-                                </span>
-                            </a>
-                            <a class="dropdown-item d-flex align-items-center justify-content-between" href="javascript:void(0)">
-                                <span>Profile</span>
-                                <span>
-                                    <span class="badge badge-pill badge-warning">1</span>
-                                </span>
-                            </a>
-                            <a class="dropdown-item d-flex align-items-center justify-content-between" href="javascript:void(0)">
-                                Settings
-                            </a>
-                            <a class="dropdown-item d-flex align-items-center justify-content-between" href="javascript:void(0)">
-                                <span>Lock Account</span>
-                            </a>
-                            <a class="dropdown-item d-flex align-items-center justify-content-between" href="javascript:void(0)">
-                                <span>Log Out</span>
-                            </a>
-                        </div>
+                        <form method="POST">
+                        <button type="button" class="btn btn-danger" type="submit" name="logout">logout</button>
+                        </form>
+                  
+                        <?php
+                        if(isset($_POST['logout'])){
+                           session_destroy();
+                           header("Location:login.php");
+                        }
+                        // else{
+                        //     echo "nahi daba";
+                        // };
+                        
+                        
+                        ?>
                     </div>
 
                 </div>
