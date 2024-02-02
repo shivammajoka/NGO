@@ -63,8 +63,7 @@
                             </form>
                         </div>
                     </div>
-<!-- 
-                    <div class="dropdown d-inline-block">
+                <!--<div class="dropdown d-inline-block">
                         <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
                             <span class="d-none d-sm-inline-block ml-1">English</span>
