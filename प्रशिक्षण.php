@@ -2,7 +2,7 @@
 <section class="page-title-area" style="background-image:url(assets/img/slider-1.png)">
   <div class="container">
     <div class="title-area-data">
-      <h2>भोजन वितरण केन्द्र भोपाल</h2>
+      <h2>प्रशिक्षण</h2>
       <p>Organisations committed to ending poverty worldwide.</p>
     </div>
     <ol class="breadcrumb">

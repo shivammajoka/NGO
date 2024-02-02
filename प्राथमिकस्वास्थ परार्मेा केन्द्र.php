@@ -2,7 +2,7 @@
 <section class="page-title-area" style="background-image:url(assets/img/slider-1.png)">
   <div class="container">
     <div class="title-area-data">
-      <h2>आरोग्य धाम, ग्वालियर</h2>
+      <h2>प्राथमिक/स्वास्थ परार्मेा केन्द्र</h2>
       <p>Organisations committed to ending poverty worldwide.</p>
     </div>
     <ol class="breadcrumb">
