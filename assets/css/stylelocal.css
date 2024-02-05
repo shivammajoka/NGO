@@ -27,6 +27,7 @@
 .card-item {
     width: 18rem;
     margin-left: 20px;
+    margin-bottom: 10px;
 }
 
 .card-body {

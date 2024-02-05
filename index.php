@@ -456,7 +456,7 @@
       <button class="main-btn" type="button">Donation</button>
     </div>
   </div>
-  <div class="card" style="width: 18rem; margin-left:20px; ">
+  <div class="card card-item">
     <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -465,7 +465,7 @@
       <button class="main-btn" type="button">Donation</button>
     </div>
   </div>
-  <div class="card" style="width: 18rem;  margin-left:20px; ">
+  <div class="card card-item">
     <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
@@ -474,7 +474,7 @@
         <button class="main-btn" type="button">Donation</button>
     </div>
   </div>
-  <div class="card" style="width: 18rem; margin-left:20px; ">
+  <div class="card card-item">
     <img src="assets/img/ngo_pic1.avif" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Card title</h5>
