@@ -1,8 +1,8 @@
 <?php include('includes/header.php') ?>
-<section class="page-title-area" style="background-image:url(https://via.placeholder.com/1920x430)">
+<section class="page-title-area" style="background-image:url(assets/img/human-blood-donate-and-heart-rate-on-white-background-free-vector.jpg)">
   <div class="container">
     <div class="title-area-data">
-      <h2>contact Us</h2>
+      <h2>रक्तदान</h2>
       <p>Organisations committed to ending poverty worldwide.</p>
     </div>
     <ol class="breadcrumb">
@@ -63,14 +63,14 @@
   <div class="container">
     <div class="heading">
       <p>If you have any questions</p>
-      <h2>Don't be a stranger just say hello.</h2>
+      <h2>रक्तदान कई जिंदगियां बचाता है</h2>
     </div>
     <div class="dont-stranger">
 
       <div class="row">
         <div class="col-lg-6">
           <div class="contact-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.27988761215!2d-74.25986708594112!3d40.69767006828117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2s!4v1670920528913!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+               <img src="assets/img/human-blood-donate-and-heart-rate-on-white-background-free-vector.jpg" alt="" width="500px">
             </div>
         </div>
         <div class="col-lg-6">
@@ -80,9 +80,8 @@
                     <input type="text" name="Email" placeholder="Email Address">
                     <input type="text" name="Phone" placeholder="Phone No">
                     <textarea placeholder="Question"></textarea>
-                    <button class="btn">
-                      <span>Send Message</span>
-                    </button>
+                    <button type="button"
+                      style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
                   </form>
                 </div>
         </div>
