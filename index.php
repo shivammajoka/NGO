@@ -132,7 +132,8 @@ include('admin/includes/config.php');
         <div class="small-donations-img">
           <div id="news-container">
           <?php
-        $query="SELECT * FROM `news_table`";
+       
+        $query="SELECT * FROM `news_table` ";
         $result=mysqli_query($conn,$query);
         while($row_fetch=mysqli_fetch_assoc($result)){
           echo"
