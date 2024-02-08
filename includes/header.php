@@ -123,7 +123,7 @@
               <div class="nav-bar">
                 <nav>
                   <ul>
-                    <li><a href="education.php">शिक्षा</a>
+                    <li><a href="शिक्षा.php">शिक्षा</a>
                       <ul>
                         <li><a href="संस्कार केन्द्र.php">संस्कार केन्द्र</a></li>
                         <li><a href="छात्रावास.php">छात्रावास</a>

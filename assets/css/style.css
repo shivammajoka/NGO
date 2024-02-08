@@ -5768,8 +5768,8 @@ li.li-pd-imgs.nav-active:before {
 }
 
 .p-100 {
-    padding-left: 100px;
-    padding-right: 100px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
 }
 
 .event-details-text .upcoming-event-time {

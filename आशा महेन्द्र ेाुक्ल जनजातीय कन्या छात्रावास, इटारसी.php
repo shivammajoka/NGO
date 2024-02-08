@@ -26,35 +26,8 @@
             <div class="upcoming-event-separator"></div>
             <h4>30<span>sep<br>2023</span></h4>
           </div>
-        <h2>Trustee Leadership Programme – London Event Program Spring 2023</h2>
+        <h2>आशा महेन्द्र ेाुक्ल जनजातीय कन्या छात्रावास, इटारसी</h2>
         <div class="row pt-4 pb-4 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time">
-              <i class="fa-solid fa-calendar-days"></i>
-              <div>
-                <span>Opening Times</span>
-                <h6>Mon - Thu 9am - 5pm</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time">
-              <i class="fa-solid fa-location-dot"></i>
-              <div>
-                <span>Event Location</span>
-                <h6>London Park Uk</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time mb-0">
-              <i class="fa-solid fa-ticket"></i>
-              <div>
-                <span>Tickets Information:</span>
-                <h6>Free</h6>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-6">
             <div class="organizer">
              <img alt="man" src="https://via.placeholder.com/90x90">
