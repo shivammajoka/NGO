@@ -1,4 +1,9 @@
-<?php include('includes/header.php') ?>
+<?php 
+include('includes/header.php'); 
+include('admin/includes/config.php');
+
+
+?>
 <section class="page-title-area" style="background-image:url(assets/img/human-blood-donate-and-heart-rate-on-white-background-free-vector.jpg)">
   <div class="container">
     <div class="title-area-data">
@@ -75,15 +80,39 @@
         </div>
         <div class="col-lg-6">
           <div class="comment p-0">
-                  <form class="leave-comment">
+                  <form  methos="POST">
                     <input type="text" name="name" placeholder="Complete Name">
-                    <input type="text" name="Email" placeholder="Email Address">
-                    <input type="text" name="Phone" placeholder="Phone No">
-                    <textarea placeholder="Question"></textarea>
-                    <button type="button"
-                      style="margin-right:20px; padding: 12px;  border-radius:10px;  background-color:red; color:white; border-color:red;width:100px">Donation</button>
+                    <input type="email" name="Email" placeholder="Email Address">
+                    <input type="number" name="Phone" placeholder="Phone No">
+                    <input type="text" name="blood_group" placeholder="Blood Group">
+                    <textarea placeholder="Question" name="masseges"></textarea>
+                    <div class="form-group">
+                   <button class="btn btn-primary" name="submit"> submit</button>
+    </div> 
                   </form>
                 </div>
+<?php
+    if(isset($_POST['submit']))
+    {
+     $dooner_name =$_POST['name'];
+    $dooner_email =$_POST['Email'];
+    $dooner_number =$_POST['Phone'];
+    $dooner_bloodgroup =$_POST['blood_group'];
+  
+    $query = "INSERT INTO `blood_dooner_data`( `name`, `Email`,`Phone`,`blood_group`,`masseges`) VALUES (' $dooner_name',' $dooner_email',' $dooner_number','$dooner_bloodgroup')";
+    if(mysqli_query($conn,$query))
+    {
+      echo"<script>alert('successful');</script>";
+    }
+    else{
+        echo "error".mysqli_error($conn);
+    }
+}
+?>
+
+
+
+
         </div>
       </div>
     </div>

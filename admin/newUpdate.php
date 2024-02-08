@@ -86,7 +86,7 @@ include('includes/header.php');
         echo "error".mysqli_error($conn);
     }
 
-    $conn->close();
+ 
 
 
 
