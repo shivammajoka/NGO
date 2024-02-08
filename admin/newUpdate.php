@@ -54,10 +54,7 @@ include('includes/header.php');
          <label for="simpleinput">News Text 12</label>
          <input type="text" id="simpleinput" class="form-control" name="newsUpdate12" placeholder="Enter your News text">
     </div>
-    <div class="form-group">
-         <label for="simpleinput">News Text 12</label>
-         <input type="text" id="simpleinput" class="form-control" name="sn" placeholder="Enter your News text">
-    </div>
+  
 
     <div class="form-group">
          <button class="btn btn-primary" name="submit"> submit</button>
@@ -78,7 +75,7 @@ include('includes/header.php');
     $news_upload_10 =$_POST['newsUpdate10'];
     $news_upload_11 =$_POST['newsUpdate11'];
     $news_upload_12 =$_POST['newsUpdate12'];
-    $sn_id=$_POST['sn'];
+   
 
     $query = "INSERT INTO `news_table`( `news_1`, `news_2`,`news_3`,`news_4`,`news_5`,`news_6`,`news_7`,`news_8`,`news_9`,`news_10`,`news_11`,`news_12`) VALUES (' $news_upload_1',' $news_upload_2',' $news_upload_3',' $news_upload_4',' $news_upload_5',' $news_upload_6',' $news_upload_7',' $news_upload_8',' $news_upload_9',' $news_upload_10',' $news_upload_11',' $news_upload_12')";
     if(mysqli_query($conn,$query))
@@ -89,7 +86,7 @@ include('includes/header.php');
         echo "error".mysqli_error($conn);
     }
 
-
+    $conn->close();
 
 
 
