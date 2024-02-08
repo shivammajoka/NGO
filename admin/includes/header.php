@@ -1,8 +1,9 @@
-
-
-
-<?php include('includes/config.php') ?>
-
+<?php 
+ session_start();
+// if(isset($_SESSION['AdminloginId'])){
+//      header("Location:login.php");
+// }
+?>
 
 
 
@@ -63,39 +64,6 @@
                             </form>
                         </div>
                     </div>
-                <!--<div class="dropdown d-inline-block">
-                        <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
-                            <span class="d-none d-sm-inline-block ml-1">English</span>
-                            <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
-                        </button>
-                        <div class="dropdown-menu dropdown-menu-right">
-
-                            item
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
-                                <span class="align-middle">Spanish</span>
-                            </a>
-
-                            item
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="assets/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12">
-                                <span class="align-middle">German</span>
-                            </a>
-
-                            item
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
-                                <span class="align-middle">Italian</span>
-                            </a>
-
-                            item
-                            <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                <img src="assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
-                                <span class="align-middle">Russian</span>
-                            </a>
-                        </div>
-                    </div> -->
 
                     <div class="dropdown d-inline-block">
 
@@ -140,29 +108,181 @@
                         </div>
                     </div>
                 </div>
-            
+                <form method="POST">
+                        <button type="button" class="btn btn-danger" type="submit" name="logout">logout</button>
+                        </form>
+                  
             </div>
 
                            
 
                     <div class="dropdown d-inline-block ml-2">
-                        <form method="POST">
-                        <button type="button" class="btn btn-danger" type="submit" name="logout">logout</button>
-                        </form>
-                  
+                        
                         <?php
-                        if(isset($_POST['logout'])){
-                           session_destroy();
-                           header("Location:login.php");
-                        }
-                        // else{
-                        //     echo "nahi daba";
-                        // };
-                        
-                        
+                        // if(isset($_POST['logout'])){
+                        //    session_destroy();
+                        //    header("Location:login.php");
+                        // }
                         ?>
                     </div>
 
                 </div>
             </div>
         </header>
+        <div class="vertical-menu">
+
+            <div data-simplebar="init" class="h-100"><div class="simplebar-wrapper" style="margin: 0px;"><div class="simplebar-height-auto-observer-wrapper"><div class="simplebar-height-auto-observer"></div></div><div class="simplebar-mask"><div class="simplebar-offset" style="right: -20px; bottom: 0px;"><div class="simplebar-content-wrapper" style="height: 100%; overflow: hidden scroll; padding-right: 20px; padding-bottom: 0px;"><div class="simplebar-content" style="padding: 0px;">
+
+                <div class="navbar-brand-box">
+                    <a href="index.html" class="logo">
+                        <i class="mdi mdi-album"></i>
+                        <span>
+                        सेवा भारती मध्य भारत 
+                        </span>
+                    </a>
+                </div>
+
+                <!--- Sidemenu -->
+                <div id="sidebar-menu" class="mm-active">
+                    <!-- Left Menu Start -->
+                    <ul class="metismenu list-unstyled mm-show" id="side-menu">
+                        <li class="menu-title">Menu</li>
+
+                        <li>
+                            <a href="admin.php" class="waves-effect"><i class="mdi mdi-home-analytics"></i><span class="badge badge-pill badge-primary float-right">7</span><span>Dashboard</span></a>
+                        </li>
+
+                        <li class="mm-active">
+                            <a href="javascript: void(0);" class="has-arrow waves-effect mm-active"><i class="mdi mdi-diamond-stone"></i><span>Website Controls</span></a>
+                            <ul class="sub-menu mm-collapse mm-show" aria-expanded="false">
+                                <li><a href="newUpdate.php">New Update</a></li>
+                                <li><a href="ui-cards.html">Cards</a></li>
+                                <li class="mm-active"><a href="ui-carousel.html" class="active">Carousel</a>
+                                </li><li><a href="ui-embeds.html">Embeds</a>
+                                </li><li><a href="ui-general.html">General</a></li>
+                                <li><a href="ui-grid.html">Grid</a></li>
+                                <li><a href="ui-media-objects.html">Media Objects</a></li>
+                                <li><a href="ui-modals.html">Modals</a></li>
+                                <li><a href="ui-progressbars.html">Progress Bars</a></li>
+                                <li><a href="ui-tabs.html">Tabs</a></li>
+                                <li><a href="ui-typography.html">Typography</a></li>
+                                <li><a href="ui-toasts.html">Toasts</a></li>
+                                <li><a href="ui-tooltips-popovers.html">Tooltips &amp; Popovers</a></li>
+                                <li><a href="ui-scrollspy.html">Scrollspy</a></li>
+                                <li><a href="ui-spinners.html">Spinners</a></li>
+                                <li><a href="ui-sweetalerts.html">Sweet Alerts</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-table-merge-cells"></i><span>Payment and Donation</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="tables-basic.html">Basic Tables</a></li>
+                                <li><a href="tables-datatables.html">Data Tables</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-poll"></i><span>Blood donor</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="charts-morris.html">Morris</a></li>
+                                <li><a href="charts-google.html">Google</a></li>
+                                <li><a href="charts-chartjs.html">Chartjs</a></li>
+                                <li><a href="charts-sparkline.html">Sparkline</a></li>
+                                <li><a href="charts-knob.html">Jquery Knob</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted-type"></i><span class="badge badge-pill badge-danger float-right">6</span><span>Forms</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="forms-elements.html">Elements</a></li>
+                                <li><a href="forms-plugins.html">Plugins</a></li>
+                                <li><a href="forms-validation.html">Validation</a></li>
+                                <li><a href="forms-mask.html">Masks</a></li>
+                                <li><a href="forms-quilljs.html">Quilljs</a></li>
+                                <li><a href="forms-uploads.html">File Uploads</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-black-mesa"></i><span>Icons</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="icons-materialdesign.html">Material Design</a></li>
+                                <li><a href="icons-fontawesome.html">Font awesome</a></li>
+                                <li><a href="icons-dripicons.html">Dripicons</a></li>
+                                <li><a href="icons-feather.html">Feather Icons</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="menu-title">More</li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-format-page-break"></i><span>Pages</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="pages-invoice.html">Invoice</a></li>
+                                <li><a href="pages-starter.html">Starter Page</a></li>
+                                <li><a href="pages-maintenance.html">Maintenance</a></li>
+                                <li><a href="pages-faqs.html">FAQs</a></li>
+                                <li><a href="pages-pricing.html">Pricing</a></li>
+                                <li><a href="pages-login.html">Login</a></li>
+                                <li><a href="pages-register.html">Register</a></li>
+                                <li><a href="pages-recoverpw.html">Recover Password</a></li>
+                                <li><a href="pages-lock-screen.html">Lock Screen</a></li>
+                                <li><a href="pages-404.html">Error 404</a></li>
+                                <li><a href="pages-500.html">Error 500</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a href="calendar.html" class=" waves-effect"><i class="mdi mdi-calendar-range-outline"></i><span>Calendar</span></a></li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-map-marker-radius"></i><span>Maps</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="false">
+                                <li><a href="maps-google.html">Google Maps</a></li>
+                                <li><a href="maps-vector.html">Vector Maps</a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="javascript: void(0);" class="has-arrow waves-effect"><i class="mdi mdi-share-variant"></i><span>Multi Level</span></a>
+                            <ul class="sub-menu mm-collapse" aria-expanded="true">
+                                <li><a href="javascript: void(0);">Level 1.1</a></li>
+                                <li><a href="javascript: void(0);" class="has-arrow">Level 1.2</a>
+                                    <ul class="sub-menu mm-collapse" aria-expanded="true">
+                                        <li><a href="javascript: void(0);">Level 2.1</a></li>
+                                        <li><a href="javascript: void(0);">Level 2.2</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+                    </ul>
+                </div>
+                <!-- Sidebar -->
+            </div></div></div></div><div class="simplebar-placeholder" style="width: auto; height: 1171px;"></div></div><div class="simplebar-track simplebar-horizontal" style="visibility: hidden;"><div class="simplebar-scrollbar" style="transform: translate3d(0px, 0px, 0px); display: none;"></div></div><div class="simplebar-track simplebar-vertical" style="visibility: visible;"><div class="simplebar-scrollbar" style="height: 161px; transform: translate3d(0px, 0px, 0px); display: block;"></div></div></div>
+        </div>
+          <!-- ============================================================== -->
+            <!-- Start right Content here -->
+            <!-- ============================================================== -->
+            <div class="main-content">
+
+                <div class="page-content">
+                    <div class="container-fluid">
+
+                        <!-- start page title -->
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="page-title-box d-flex align-items-center justify-content-between">
+                                    <h4 class="mb-0 font-size-18">Dashboard</h4>
+
+                                    <div class="page-title-right">
+                                        <ol class="breadcrumb m-0">
+                                            <!-- <li class="breadcrumb-item"><a href="javascript: void(0);">Xeloro</a></li>
+                                            <li class="breadcrumb-item active">Dashboard</li> -->
+                                        </ol>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
