@@ -26,35 +26,8 @@
             <div class="upcoming-event-separator"></div>
             <h4>30<span>sep<br>2023</span></h4>
           </div>
-        <h2>Trustee Leadership Programme – London Event Program Spring 2023</h2>
+        <h2>प्रान्त का पूर्णकालिक प्रशिक्षण (प्रति तीन माह) प्रान्त का आयामषः प्रशिक्षण वर्ष में 1 बार षिक्षिका, निरीक्षिका प्रशिक्षण समिति (अध्यक्ष, सचिव, कोषाध्यक्ष प्रशिक्षण) प्रबंधक, अधीक्षक, प्राध्यापक प्रशिक्षण</h2>
         <div class="row pt-4 pb-4 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time">
-              <i class="fa-solid fa-calendar-days"></i>
-              <div>
-                <span>Opening Times</span>
-                <h6>Mon - Thu 9am - 5pm</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time">
-              <i class="fa-solid fa-location-dot"></i>
-              <div>
-                <span>Event Location</span>
-                <h6>London Park Uk</h6>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="event-time mb-0">
-              <i class="fa-solid fa-ticket"></i>
-              <div>
-                <span>Tickets Information:</span>
-                <h6>Free</h6>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-6">
             <div class="organizer">
              <img alt="man" src="https://via.placeholder.com/90x90">
